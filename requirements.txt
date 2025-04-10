@@ -1,0 +1,6 @@
+librosa
+matplotlib
+pyaudio
+simpleaudio
+numpy
+pandas
