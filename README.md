@@ -1,7 +1,7 @@
-# Speech Recognition Assignment 3: DTW-based Digit Recognition
-
+# Speech Recognition Assignment 3
 This project implements a Dynamic Time Warping (DTW) based speech recognition system for isolated digit recognition. The system records spoken digits, computes MFCC features, and uses DTW for template matching.
 
+This work builds upon the implementations developed in Assignment 1 and Assignment 2. Assignment 3 introduces a DTW-based isolated digit recognition system that reuses the audio recording and endpointing functionality from Assignment 1, as well as the MFCC + delta + delta-delta feature extraction pipeline from Assignment 2. All new code specific to this assignment is located in the Assignment3 folder. Running main.py in that folder initiates the system, where the user is prompted to either record new digit samples or use existing recordings. All logs and results summary are under the logs folder and plots are in Assignment3. 
 ## Project Structure
 
 ```
@@ -13,16 +13,6 @@ Assignment3/
 ├── main.py              # Main interface and testing
 └── recordings/          # Directory for recorded audio files
 ```
-
-## Requirements
-
-1. Python 3.6 or higher
-2. Required packages (install using `pip install -r requirements.txt`):
-   - numpy
-   - scipy
-   - matplotlib
-   - librosa
-   - pyaudio
 
 ## Features and Implementation Details
 
@@ -74,16 +64,16 @@ Assignment3/
 
 1. **Setup**:
    ```bash
-   # Create required directories
-   mkdir -p Assignment3/recordings
+   cd Assignment3
    
    # Install dependencies
    pip install -r requirements.txt
+   
    ```
 
 2. **Running the Program**:
    ```bash
-   python Assignment3/main.py
+   python main.py
    ```
 
 3. **Recording Process**:
@@ -107,66 +97,3 @@ Assignment3/
      - `pruning_results.png`: Accuracy vs pruning threshold
      - `template_results.png`: Accuracy vs number of templates
 
-## Testing Different Configurations
-
-1. **Adjusting Recording Parameters**:
-   Modify in `main.py`:
-   ```python
-   record_audio(
-       amplitude_threshold=80,  # Adjust silence detection
-       zcr_threshold=0.1,      # Adjust ZCR threshold
-       max_silence_len=0.3     # Adjust silence duration
-   )
-   ```
-
-2. **Testing Different MFCC Configurations**:
-   Modify in `features/mfcc.py`:
-   ```python
-   mfcc = MFCC(
-       n_filters=40,    # Number of Mel filters
-       n_ceps=13,       # Number of cepstral coefficients
-       low_freq=50,     # Lower frequency bound
-       high_freq=7000   # Upper frequency bound
-   )
-   ```
-
-3. **Testing DTW Parameters**:
-   Modify in `dtw/dtw.py`:
-   ```python
-   dtw = DTW(pruning_threshold=0.2)  # Adjust pruning threshold
-   ```
-
-## Expected Results
-
-1. **Recognition Accuracy**:
-   - Single template: ~70-80%
-   - Time-synchronous DTW: ~80-90%
-   - Multiple templates: Up to ~95%
-
-2. **Performance Metrics**:
-   - Processing time per digit: ~100-200ms
-   - Memory usage: ~100MB for 100 recordings
-
-## Troubleshooting
-
-1. **Recording Issues**:
-   - If recording doesn't stop: Decrease `max_silence_len`
-   - If recording stops too early: Increase `amplitude_threshold`
-   - If background noise affects: Increase `zcr_threshold`
-
-2. **Recognition Issues**:
-   - Low accuracy: Try increasing number of templates
-   - Slow performance: Enable pruning
-   - False positives: Use time-synchronous DTW
-
-## Contributing
-
-Feel free to modify and improve the code. Key areas for improvement:
-1. Feature extraction optimization
-2. DTW algorithm efficiency
-3. Template selection strategies
-4. Noise robustness
-
-## License
-
-This project is part of a speech recognition course assignment. Use for educational purposes only.
