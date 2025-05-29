@@ -1,0 +1,3307 @@
+2025-05-29 18:03:29,426 - === Loading Existing Recordings ===
+2025-05-29 18:03:31,431 - Loaded recording: zero_1.wav
+2025-05-29 18:03:31,440 - Loaded recording: zero_10.wav
+2025-05-29 18:03:31,450 - Loaded recording: zero_2.wav
+2025-05-29 18:03:31,459 - Loaded recording: zero_3.wav
+2025-05-29 18:03:31,468 - Loaded recording: zero_4.wav
+2025-05-29 18:03:31,478 - Loaded recording: zero_5.wav
+2025-05-29 18:03:31,488 - Loaded recording: zero_6.wav
+2025-05-29 18:03:31,499 - Loaded recording: zero_7.wav
+2025-05-29 18:03:31,511 - Loaded recording: zero_8.wav
+2025-05-29 18:03:31,521 - Loaded recording: zero_9.wav
+2025-05-29 18:03:31,538 - Loaded recording: one_1.wav
+2025-05-29 18:03:31,547 - Loaded recording: one_10.wav
+2025-05-29 18:03:31,556 - Loaded recording: one_2.wav
+2025-05-29 18:03:31,566 - Loaded recording: one_3.wav
+2025-05-29 18:03:31,575 - Loaded recording: one_4.wav
+2025-05-29 18:03:31,584 - Loaded recording: one_5.wav
+2025-05-29 18:03:31,592 - Loaded recording: one_6.wav
+2025-05-29 18:03:31,602 - Loaded recording: one_7.wav
+2025-05-29 18:03:31,611 - Loaded recording: one_8.wav
+2025-05-29 18:03:31,619 - Loaded recording: one_9.wav
+2025-05-29 18:03:31,628 - Loaded recording: two_1.wav
+2025-05-29 18:03:31,635 - Loaded recording: two_10.wav
+2025-05-29 18:03:31,643 - Loaded recording: two_2.wav
+2025-05-29 18:03:31,652 - Loaded recording: two_3.wav
+2025-05-29 18:03:31,661 - Loaded recording: two_4.wav
+2025-05-29 18:03:31,669 - Loaded recording: two_5.wav
+2025-05-29 18:03:31,677 - Loaded recording: two_6.wav
+2025-05-29 18:03:31,685 - Loaded recording: two_7.wav
+2025-05-29 18:03:31,694 - Loaded recording: two_8.wav
+2025-05-29 18:03:31,701 - Loaded recording: two_9.wav
+2025-05-29 18:03:31,710 - Loaded recording: three_1.wav
+2025-05-29 18:03:31,718 - Loaded recording: three_10.wav
+2025-05-29 18:03:31,724 - Loaded recording: three_2.wav
+2025-05-29 18:03:31,732 - Loaded recording: three_3.wav
+2025-05-29 18:03:31,741 - Loaded recording: three_4.wav
+2025-05-29 18:03:31,750 - Loaded recording: three_5.wav
+2025-05-29 18:03:31,758 - Loaded recording: three_6.wav
+2025-05-29 18:03:31,766 - Loaded recording: three_7.wav
+2025-05-29 18:03:31,773 - Loaded recording: three_8.wav
+2025-05-29 18:03:31,782 - Loaded recording: three_9.wav
+2025-05-29 18:03:31,790 - Loaded recording: four_1.wav
+2025-05-29 18:03:31,798 - Loaded recording: four_10.wav
+2025-05-29 18:03:31,806 - Loaded recording: four_2.wav
+2025-05-29 18:03:31,815 - Loaded recording: four_3.wav
+2025-05-29 18:03:31,822 - Loaded recording: four_4.wav
+2025-05-29 18:03:31,831 - Loaded recording: four_5.wav
+2025-05-29 18:03:31,840 - Loaded recording: four_6.wav
+2025-05-29 18:03:31,849 - Loaded recording: four_7.wav
+2025-05-29 18:03:31,857 - Loaded recording: four_8.wav
+2025-05-29 18:03:31,864 - Loaded recording: four_9.wav
+2025-05-29 18:03:31,872 - Loaded recording: five_1.wav
+2025-05-29 18:03:31,882 - Loaded recording: five_10.wav
+2025-05-29 18:03:31,889 - Loaded recording: five_2.wav
+2025-05-29 18:03:31,898 - Loaded recording: five_3.wav
+2025-05-29 18:03:31,906 - Loaded recording: five_4.wav
+2025-05-29 18:03:31,914 - Loaded recording: five_5.wav
+2025-05-29 18:03:31,921 - Loaded recording: five_6.wav
+2025-05-29 18:03:31,930 - Loaded recording: five_7.wav
+2025-05-29 18:03:31,938 - Loaded recording: five_8.wav
+2025-05-29 18:03:31,946 - Loaded recording: five_9.wav
+2025-05-29 18:03:31,954 - Loaded recording: six_1.wav
+2025-05-29 18:03:31,960 - Loaded recording: six_10.wav
+2025-05-29 18:03:31,967 - Loaded recording: six_2.wav
+2025-05-29 18:03:31,976 - Loaded recording: six_3.wav
+2025-05-29 18:03:31,981 - Loaded recording: six_4.wav
+2025-05-29 18:03:31,990 - Loaded recording: six_5.wav
+2025-05-29 18:03:31,999 - Loaded recording: six_6.wav
+2025-05-29 18:03:32,008 - Loaded recording: six_7.wav
+2025-05-29 18:03:32,016 - Loaded recording: six_8.wav
+2025-05-29 18:03:32,026 - Loaded recording: six_9.wav
+2025-05-29 18:03:32,035 - Loaded recording: seven_1.wav
+2025-05-29 18:03:32,044 - Loaded recording: seven_10.wav
+2025-05-29 18:03:32,052 - Loaded recording: seven_2.wav
+2025-05-29 18:03:32,060 - Loaded recording: seven_3.wav
+2025-05-29 18:03:32,069 - Loaded recording: seven_4.wav
+2025-05-29 18:03:32,077 - Loaded recording: seven_5.wav
+2025-05-29 18:03:32,085 - Loaded recording: seven_6.wav
+2025-05-29 18:03:32,095 - Loaded recording: seven_7.wav
+2025-05-29 18:03:32,103 - Loaded recording: seven_8.wav
+2025-05-29 18:03:32,112 - Loaded recording: seven_9.wav
+2025-05-29 18:03:32,122 - Loaded recording: eight_1.wav
+2025-05-29 18:03:32,133 - Loaded recording: eight_10.wav
+2025-05-29 18:03:32,140 - Loaded recording: eight_2.wav
+2025-05-29 18:03:32,151 - Loaded recording: eight_3.wav
+2025-05-29 18:03:32,160 - Loaded recording: eight_4.wav
+2025-05-29 18:03:32,171 - Loaded recording: eight_5.wav
+2025-05-29 18:03:32,176 - Loaded recording: eight_6.wav
+2025-05-29 18:03:32,185 - Loaded recording: eight_7.wav
+2025-05-29 18:03:32,196 - Loaded recording: eight_8.wav
+2025-05-29 18:03:32,205 - Loaded recording: eight_9.wav
+2025-05-29 18:03:32,214 - Loaded recording: nine_1.wav
+2025-05-29 18:03:32,223 - Loaded recording: nine_10.wav
+2025-05-29 18:03:32,233 - Loaded recording: nine_2.wav
+2025-05-29 18:03:32,242 - Loaded recording: nine_3.wav
+2025-05-29 18:03:32,252 - Loaded recording: nine_4.wav
+2025-05-29 18:03:32,261 - Loaded recording: nine_5.wav
+2025-05-29 18:03:32,269 - Loaded recording: nine_6.wav
+2025-05-29 18:03:32,278 - Loaded recording: nine_7.wav
+2025-05-29 18:03:32,286 - Loaded recording: nine_8.wav
+2025-05-29 18:03:32,294 - Loaded recording: nine_9.wav
+2025-05-29 18:03:32,295 - 
+=== Testing with Single Template ===
+2025-05-29 18:03:32,295 - 
+=== Testing Recognition ===
+2025-05-29 18:03:32,295 - 
+Testing digit 'zero'
+2025-05-29 18:03:32,295 - 
+Test 1/5
+2025-05-29 18:03:33,407 - Recognized as: five
+2025-05-29 18:03:33,408 - Actual digit: zero
+2025-05-29 18:03:33,408 - 
+Test 2/5
+2025-05-29 18:03:34,459 - Recognized as: four
+2025-05-29 18:03:34,460 - Actual digit: zero
+2025-05-29 18:03:34,460 - 
+Test 3/5
+2025-05-29 18:03:35,499 - Recognized as: three
+2025-05-29 18:03:35,499 - Actual digit: zero
+2025-05-29 18:03:35,500 - 
+Test 4/5
+2025-05-29 18:03:36,546 - Recognized as: two
+2025-05-29 18:03:36,546 - Actual digit: zero
+2025-05-29 18:03:36,547 - 
+Test 5/5
+2025-05-29 18:03:37,912 - Recognized as: three
+2025-05-29 18:03:37,913 - Actual digit: zero
+2025-05-29 18:03:37,913 - 
+Testing digit 'one'
+2025-05-29 18:03:37,913 - 
+Test 1/5
+2025-05-29 18:03:38,863 - Recognized as: two
+2025-05-29 18:03:38,863 - Actual digit: one
+2025-05-29 18:03:38,863 - 
+Test 2/5
+2025-05-29 18:03:39,877 - Recognized as: four
+2025-05-29 18:03:39,877 - Actual digit: one
+2025-05-29 18:03:39,878 - 
+Test 3/5
+2025-05-29 18:03:40,866 - Recognized as: four
+2025-05-29 18:03:40,867 - Actual digit: one
+2025-05-29 18:03:40,867 - 
+Test 4/5
+2025-05-29 18:03:41,873 - Recognized as: four
+2025-05-29 18:03:41,873 - Actual digit: one
+2025-05-29 18:03:41,873 - 
+Test 5/5
+2025-05-29 18:03:42,887 - Recognized as: four
+2025-05-29 18:03:42,887 - Actual digit: one
+2025-05-29 18:03:42,887 - 
+Testing digit 'two'
+2025-05-29 18:03:42,887 - 
+Test 1/5
+2025-05-29 18:03:43,880 - Recognized as: two
+2025-05-29 18:03:43,880 - Actual digit: two
+2025-05-29 18:03:43,881 - 
+Test 2/5
+2025-05-29 18:03:44,894 - Recognized as: two
+2025-05-29 18:03:44,894 - Actual digit: two
+2025-05-29 18:03:44,895 - 
+Test 3/5
+2025-05-29 18:03:45,982 - Recognized as: two
+2025-05-29 18:03:45,982 - Actual digit: two
+2025-05-29 18:03:45,983 - 
+Test 4/5
+2025-05-29 18:03:47,081 - Recognized as: two
+2025-05-29 18:03:47,081 - Actual digit: two
+2025-05-29 18:03:47,081 - 
+Test 5/5
+2025-05-29 18:03:48,057 - Recognized as: five
+2025-05-29 18:03:48,058 - Actual digit: two
+2025-05-29 18:03:48,058 - 
+Testing digit 'three'
+2025-05-29 18:03:48,058 - 
+Test 1/5
+2025-05-29 18:03:49,045 - Recognized as: two
+2025-05-29 18:03:49,046 - Actual digit: three
+2025-05-29 18:03:49,046 - 
+Test 2/5
+2025-05-29 18:03:49,923 - Recognized as: five
+2025-05-29 18:03:49,924 - Actual digit: three
+2025-05-29 18:03:49,924 - 
+Test 3/5
+2025-05-29 18:03:50,903 - Recognized as: three
+2025-05-29 18:03:50,904 - Actual digit: three
+2025-05-29 18:03:50,904 - 
+Test 4/5
+2025-05-29 18:03:51,900 - Recognized as: three
+2025-05-29 18:03:51,901 - Actual digit: three
+2025-05-29 18:03:51,901 - 
+Test 5/5
+2025-05-29 18:03:52,900 - Recognized as: two
+2025-05-29 18:03:52,900 - Actual digit: three
+2025-05-29 18:03:52,901 - 
+Testing digit 'four'
+2025-05-29 18:03:52,901 - 
+Test 1/5
+2025-05-29 18:03:53,918 - Recognized as: four
+2025-05-29 18:03:53,919 - Actual digit: four
+2025-05-29 18:03:53,919 - 
+Test 2/5
+2025-05-29 18:03:54,934 - Recognized as: four
+2025-05-29 18:03:54,934 - Actual digit: four
+2025-05-29 18:03:54,935 - 
+Test 3/5
+2025-05-29 18:03:55,925 - Recognized as: four
+2025-05-29 18:03:55,926 - Actual digit: four
+2025-05-29 18:03:55,926 - 
+Test 4/5
+2025-05-29 18:03:56,999 - Recognized as: five
+2025-05-29 18:03:56,999 - Actual digit: four
+2025-05-29 18:03:56,999 - 
+Test 5/5
+2025-05-29 18:03:57,983 - Recognized as: five
+2025-05-29 18:03:57,984 - Actual digit: four
+2025-05-29 18:03:57,984 - 
+Testing digit 'five'
+2025-05-29 18:03:57,984 - 
+Test 1/5
+2025-05-29 18:03:59,003 - Recognized as: five
+2025-05-29 18:03:59,004 - Actual digit: five
+2025-05-29 18:03:59,004 - 
+Test 2/5
+2025-05-29 18:04:00,020 - Recognized as: five
+2025-05-29 18:04:00,020 - Actual digit: five
+2025-05-29 18:04:00,021 - 
+Test 3/5
+2025-05-29 18:04:01,036 - Recognized as: five
+2025-05-29 18:04:01,036 - Actual digit: five
+2025-05-29 18:04:01,037 - 
+Test 4/5
+2025-05-29 18:04:02,190 - Recognized as: five
+2025-05-29 18:04:02,190 - Actual digit: five
+2025-05-29 18:04:02,190 - 
+Test 5/5
+2025-05-29 18:04:03,194 - Recognized as: five
+2025-05-29 18:04:03,195 - Actual digit: five
+2025-05-29 18:04:03,195 - 
+Testing digit 'six'
+2025-05-29 18:04:03,195 - 
+Test 1/5
+2025-05-29 18:04:04,076 - Recognized as: five
+2025-05-29 18:04:04,077 - Actual digit: six
+2025-05-29 18:04:04,077 - 
+Test 2/5
+2025-05-29 18:04:05,036 - Recognized as: five
+2025-05-29 18:04:05,036 - Actual digit: six
+2025-05-29 18:04:05,037 - 
+Test 3/5
+2025-05-29 18:04:05,983 - Recognized as: five
+2025-05-29 18:04:05,984 - Actual digit: six
+2025-05-29 18:04:05,984 - 
+Test 4/5
+2025-05-29 18:04:06,830 - Recognized as: five
+2025-05-29 18:04:06,830 - Actual digit: six
+2025-05-29 18:04:06,831 - 
+Test 5/5
+2025-05-29 18:04:07,787 - Recognized as: five
+2025-05-29 18:04:07,787 - Actual digit: six
+2025-05-29 18:04:07,788 - 
+Testing digit 'seven'
+2025-05-29 18:04:07,790 - 
+Test 1/5
+2025-05-29 18:04:08,781 - Recognized as: five
+2025-05-29 18:04:08,782 - Actual digit: seven
+2025-05-29 18:04:08,783 - 
+Test 2/5
+2025-05-29 18:04:09,741 - Recognized as: two
+2025-05-29 18:04:09,742 - Actual digit: seven
+2025-05-29 18:04:09,742 - 
+Test 3/5
+2025-05-29 18:04:10,715 - Recognized as: two
+2025-05-29 18:04:10,715 - Actual digit: seven
+2025-05-29 18:04:10,715 - 
+Test 4/5
+2025-05-29 18:04:11,703 - Recognized as: five
+2025-05-29 18:04:11,703 - Actual digit: seven
+2025-05-29 18:04:11,704 - 
+Test 5/5
+2025-05-29 18:04:12,688 - Recognized as: five
+2025-05-29 18:04:12,688 - Actual digit: seven
+2025-05-29 18:04:12,688 - 
+Testing digit 'eight'
+2025-05-29 18:04:12,689 - 
+Test 1/5
+2025-05-29 18:04:13,696 - Recognized as: five
+2025-05-29 18:04:13,696 - Actual digit: eight
+2025-05-29 18:04:13,697 - 
+Test 2/5
+2025-05-29 18:04:14,671 - Recognized as: five
+2025-05-29 18:04:14,671 - Actual digit: eight
+2025-05-29 18:04:14,671 - 
+Test 3/5
+2025-05-29 18:04:15,773 - Recognized as: three
+2025-05-29 18:04:15,775 - Actual digit: eight
+2025-05-29 18:04:15,775 - 
+Test 4/5
+2025-05-29 18:04:17,064 - Recognized as: three
+2025-05-29 18:04:17,064 - Actual digit: eight
+2025-05-29 18:04:17,064 - 
+Test 5/5
+2025-05-29 18:04:18,313 - Recognized as: three
+2025-05-29 18:04:18,314 - Actual digit: eight
+2025-05-29 18:04:18,314 - 
+Testing digit 'nine'
+2025-05-29 18:04:18,314 - 
+Test 1/5
+2025-05-29 18:04:20,206 - Recognized as: nine
+2025-05-29 18:04:20,206 - Actual digit: nine
+2025-05-29 18:04:20,206 - 
+Test 2/5
+2025-05-29 18:04:21,194 - Recognized as: nine
+2025-05-29 18:04:21,194 - Actual digit: nine
+2025-05-29 18:04:21,195 - 
+Test 3/5
+2025-05-29 18:04:22,138 - Recognized as: five
+2025-05-29 18:04:22,138 - Actual digit: nine
+2025-05-29 18:04:22,138 - 
+Test 4/5
+2025-05-29 18:04:23,135 - Recognized as: nine
+2025-05-29 18:04:23,135 - Actual digit: nine
+2025-05-29 18:04:23,135 - 
+Test 5/5
+2025-05-29 18:04:24,076 - Recognized as: nine
+2025-05-29 18:04:24,077 - Actual digit: nine
+2025-05-29 18:04:24,077 - 
+Overall accuracy: 36.00%
+2025-05-29 18:04:24,077 - 
+=== Testing with Time-Synchronous DTW ===
+2025-05-29 18:04:24,078 - 
+=== Testing Recognition ===
+2025-05-29 18:04:24,079 - 
+Testing digit 'zero'
+2025-05-29 18:04:24,079 - 
+Test 1/5
+2025-05-29 18:04:24,126 - Recognized as: None
+2025-05-29 18:04:24,126 - Actual digit: zero
+2025-05-29 18:04:24,126 - 
+Test 2/5
+2025-05-29 18:04:24,174 - Recognized as: None
+2025-05-29 18:04:24,174 - Actual digit: zero
+2025-05-29 18:04:24,175 - 
+Test 3/5
+2025-05-29 18:04:24,222 - Recognized as: None
+2025-05-29 18:04:24,223 - Actual digit: zero
+2025-05-29 18:04:24,223 - 
+Test 4/5
+2025-05-29 18:04:24,271 - Recognized as: None
+2025-05-29 18:04:24,271 - Actual digit: zero
+2025-05-29 18:04:24,271 - 
+Test 5/5
+2025-05-29 18:04:24,321 - Recognized as: None
+2025-05-29 18:04:24,322 - Actual digit: zero
+2025-05-29 18:04:24,322 - 
+Testing digit 'one'
+2025-05-29 18:04:24,322 - 
+Test 1/5
+2025-05-29 18:04:24,370 - Recognized as: nine
+2025-05-29 18:04:24,370 - Actual digit: one
+2025-05-29 18:04:24,370 - 
+Test 2/5
+2025-05-29 18:04:24,418 - Recognized as: seven
+2025-05-29 18:04:24,418 - Actual digit: one
+2025-05-29 18:04:24,419 - 
+Test 3/5
+2025-05-29 18:04:24,466 - Recognized as: seven
+2025-05-29 18:04:24,466 - Actual digit: one
+2025-05-29 18:04:24,466 - 
+Test 4/5
+2025-05-29 18:04:24,514 - Recognized as: seven
+2025-05-29 18:04:24,514 - Actual digit: one
+2025-05-29 18:04:24,514 - 
+Test 5/5
+2025-05-29 18:04:24,561 - Recognized as: seven
+2025-05-29 18:04:24,561 - Actual digit: one
+2025-05-29 18:04:24,562 - 
+Testing digit 'two'
+2025-05-29 18:04:24,562 - 
+Test 1/5
+2025-05-29 18:04:24,605 - Recognized as: five
+2025-05-29 18:04:24,605 - Actual digit: two
+2025-05-29 18:04:24,606 - 
+Test 2/5
+2025-05-29 18:04:24,656 - Recognized as: seven
+2025-05-29 18:04:24,656 - Actual digit: two
+2025-05-29 18:04:24,656 - 
+Test 3/5
+2025-05-29 18:04:24,704 - Recognized as: None
+2025-05-29 18:04:24,704 - Actual digit: two
+2025-05-29 18:04:24,704 - 
+Test 4/5
+2025-05-29 18:04:24,751 - Recognized as: None
+2025-05-29 18:04:24,751 - Actual digit: two
+2025-05-29 18:04:24,752 - 
+Test 5/5
+2025-05-29 18:04:24,800 - Recognized as: three
+2025-05-29 18:04:24,800 - Actual digit: two
+2025-05-29 18:04:24,800 - 
+Testing digit 'three'
+2025-05-29 18:04:24,800 - 
+Test 1/5
+2025-05-29 18:04:24,845 - Recognized as: two
+2025-05-29 18:04:24,846 - Actual digit: three
+2025-05-29 18:04:24,846 - 
+Test 2/5
+2025-05-29 18:04:24,872 - Recognized as: None
+2025-05-29 18:04:24,872 - Actual digit: three
+2025-05-29 18:04:24,872 - 
+Test 3/5
+2025-05-29 18:04:24,917 - Recognized as: two
+2025-05-29 18:04:24,918 - Actual digit: three
+2025-05-29 18:04:24,918 - 
+Test 4/5
+2025-05-29 18:04:24,964 - Recognized as: two
+2025-05-29 18:04:24,964 - Actual digit: three
+2025-05-29 18:04:24,964 - 
+Test 5/5
+2025-05-29 18:04:25,013 - Recognized as: two
+2025-05-29 18:04:25,013 - Actual digit: three
+2025-05-29 18:04:25,013 - 
+Testing digit 'four'
+2025-05-29 18:04:25,013 - 
+Test 1/5
+2025-05-29 18:04:25,060 - Recognized as: five
+2025-05-29 18:04:25,060 - Actual digit: four
+2025-05-29 18:04:25,060 - 
+Test 2/5
+2025-05-29 18:04:25,104 - Recognized as: four
+2025-05-29 18:04:25,105 - Actual digit: four
+2025-05-29 18:04:25,105 - 
+Test 3/5
+2025-05-29 18:04:25,151 - Recognized as: nine
+2025-05-29 18:04:25,151 - Actual digit: four
+2025-05-29 18:04:25,151 - 
+Test 4/5
+2025-05-29 18:04:25,196 - Recognized as: None
+2025-05-29 18:04:25,196 - Actual digit: four
+2025-05-29 18:04:25,196 - 
+Test 5/5
+2025-05-29 18:04:25,243 - Recognized as: two
+2025-05-29 18:04:25,244 - Actual digit: four
+2025-05-29 18:04:25,244 - 
+Testing digit 'five'
+2025-05-29 18:04:25,244 - 
+Test 1/5
+2025-05-29 18:04:25,289 - Recognized as: five
+2025-05-29 18:04:25,289 - Actual digit: five
+2025-05-29 18:04:25,290 - 
+Test 2/5
+2025-05-29 18:04:25,338 - Recognized as: five
+2025-05-29 18:04:25,338 - Actual digit: five
+2025-05-29 18:04:25,338 - 
+Test 3/5
+2025-05-29 18:04:25,385 - Recognized as: five
+2025-05-29 18:04:25,385 - Actual digit: five
+2025-05-29 18:04:25,385 - 
+Test 4/5
+2025-05-29 18:04:25,432 - Recognized as: None
+2025-05-29 18:04:25,432 - Actual digit: five
+2025-05-29 18:04:25,433 - 
+Test 5/5
+2025-05-29 18:04:25,477 - Recognized as: five
+2025-05-29 18:04:25,478 - Actual digit: five
+2025-05-29 18:04:25,478 - 
+Testing digit 'six'
+2025-05-29 18:04:25,478 - 
+Test 1/5
+2025-05-29 18:04:25,503 - Recognized as: None
+2025-05-29 18:04:25,504 - Actual digit: six
+2025-05-29 18:04:25,504 - 
+Test 2/5
+2025-05-29 18:04:25,550 - Recognized as: two
+2025-05-29 18:04:25,550 - Actual digit: six
+2025-05-29 18:04:25,550 - 
+Test 3/5
+2025-05-29 18:04:25,597 - Recognized as: two
+2025-05-29 18:04:25,597 - Actual digit: six
+2025-05-29 18:04:25,597 - 
+Test 4/5
+2025-05-29 18:04:25,624 - Recognized as: None
+2025-05-29 18:04:25,624 - Actual digit: six
+2025-05-29 18:04:25,625 - 
+Test 5/5
+2025-05-29 18:04:25,670 - Recognized as: three
+2025-05-29 18:04:25,670 - Actual digit: six
+2025-05-29 18:04:25,670 - 
+Testing digit 'seven'
+2025-05-29 18:04:25,670 - 
+Test 1/5
+2025-05-29 18:04:25,716 - Recognized as: five
+2025-05-29 18:04:25,717 - Actual digit: seven
+2025-05-29 18:04:25,717 - 
+Test 2/5
+2025-05-29 18:04:25,764 - Recognized as: two
+2025-05-29 18:04:25,765 - Actual digit: seven
+2025-05-29 18:04:25,765 - 
+Test 3/5
+2025-05-29 18:04:25,814 - Recognized as: nine
+2025-05-29 18:04:25,814 - Actual digit: seven
+2025-05-29 18:04:25,814 - 
+Test 4/5
+2025-05-29 18:04:25,861 - Recognized as: nine
+2025-05-29 18:04:25,861 - Actual digit: seven
+2025-05-29 18:04:25,861 - 
+Test 5/5
+2025-05-29 18:04:25,909 - Recognized as: five
+2025-05-29 18:04:25,909 - Actual digit: seven
+2025-05-29 18:04:25,909 - 
+Testing digit 'eight'
+2025-05-29 18:04:25,909 - 
+Test 1/5
+2025-05-29 18:04:25,959 - Recognized as: six
+2025-05-29 18:04:25,959 - Actual digit: eight
+2025-05-29 18:04:25,960 - 
+Test 2/5
+2025-05-29 18:04:26,007 - Recognized as: five
+2025-05-29 18:04:26,007 - Actual digit: eight
+2025-05-29 18:04:26,007 - 
+Test 3/5
+2025-05-29 18:04:26,054 - Recognized as: None
+2025-05-29 18:04:26,055 - Actual digit: eight
+2025-05-29 18:04:26,055 - 
+Test 4/5
+2025-05-29 18:04:26,105 - Recognized as: None
+2025-05-29 18:04:26,105 - Actual digit: eight
+2025-05-29 18:04:26,106 - 
+Test 5/5
+2025-05-29 18:04:26,156 - Recognized as: None
+2025-05-29 18:04:26,157 - Actual digit: eight
+2025-05-29 18:04:26,157 - 
+Testing digit 'nine'
+2025-05-29 18:04:26,157 - 
+Test 1/5
+2025-05-29 18:04:26,206 - Recognized as: None
+2025-05-29 18:04:26,206 - Actual digit: nine
+2025-05-29 18:04:26,207 - 
+Test 2/5
+2025-05-29 18:04:26,257 - Recognized as: nine
+2025-05-29 18:04:26,257 - Actual digit: nine
+2025-05-29 18:04:26,257 - 
+Test 3/5
+2025-05-29 18:04:26,304 - Recognized as: four
+2025-05-29 18:04:26,304 - Actual digit: nine
+2025-05-29 18:04:26,305 - 
+Test 4/5
+2025-05-29 18:04:26,351 - Recognized as: one
+2025-05-29 18:04:26,352 - Actual digit: nine
+2025-05-29 18:04:26,352 - 
+Test 5/5
+2025-05-29 18:04:26,400 - Recognized as: nine
+2025-05-29 18:04:26,400 - Actual digit: nine
+2025-05-29 18:04:26,400 - 
+Overall accuracy: 14.00%
+2025-05-29 18:04:26,400 - 
+=== Testing with Different Band Ratios ===
+2025-05-29 18:04:26,401 - 
+Testing with band ratio: 0.1
+2025-05-29 18:04:26,401 - 
+=== Testing Recognition ===
+2025-05-29 18:04:26,401 - 
+Testing digit 'zero'
+2025-05-29 18:04:26,402 - 
+Test 1/5
+2025-05-29 18:04:26,449 - Recognized as: None
+2025-05-29 18:04:26,450 - Actual digit: zero
+2025-05-29 18:04:26,450 - 
+Test 2/5
+2025-05-29 18:04:26,500 - Recognized as: None
+2025-05-29 18:04:26,501 - Actual digit: zero
+2025-05-29 18:04:26,501 - 
+Test 3/5
+2025-05-29 18:04:26,550 - Recognized as: None
+2025-05-29 18:04:26,551 - Actual digit: zero
+2025-05-29 18:04:26,551 - 
+Test 4/5
+2025-05-29 18:04:26,600 - Recognized as: None
+2025-05-29 18:04:26,600 - Actual digit: zero
+2025-05-29 18:04:26,600 - 
+Test 5/5
+2025-05-29 18:04:26,650 - Recognized as: None
+2025-05-29 18:04:26,650 - Actual digit: zero
+2025-05-29 18:04:26,650 - 
+Testing digit 'one'
+2025-05-29 18:04:26,650 - 
+Test 1/5
+2025-05-29 18:04:26,699 - Recognized as: nine
+2025-05-29 18:04:26,699 - Actual digit: one
+2025-05-29 18:04:26,699 - 
+Test 2/5
+2025-05-29 18:04:26,748 - Recognized as: seven
+2025-05-29 18:04:26,748 - Actual digit: one
+2025-05-29 18:04:26,748 - 
+Test 3/5
+2025-05-29 18:04:26,796 - Recognized as: seven
+2025-05-29 18:04:26,796 - Actual digit: one
+2025-05-29 18:04:26,796 - 
+Test 4/5
+2025-05-29 18:04:26,843 - Recognized as: seven
+2025-05-29 18:04:26,843 - Actual digit: one
+2025-05-29 18:04:26,844 - 
+Test 5/5
+2025-05-29 18:04:26,892 - Recognized as: seven
+2025-05-29 18:04:26,892 - Actual digit: one
+2025-05-29 18:04:26,893 - 
+Testing digit 'two'
+2025-05-29 18:04:26,893 - 
+Test 1/5
+2025-05-29 18:04:26,939 - Recognized as: five
+2025-05-29 18:04:26,939 - Actual digit: two
+2025-05-29 18:04:26,939 - 
+Test 2/5
+2025-05-29 18:04:26,991 - Recognized as: seven
+2025-05-29 18:04:26,991 - Actual digit: two
+2025-05-29 18:04:26,993 - 
+Test 3/5
+2025-05-29 18:04:27,041 - Recognized as: None
+2025-05-29 18:04:27,041 - Actual digit: two
+2025-05-29 18:04:27,042 - 
+Test 4/5
+2025-05-29 18:04:27,089 - Recognized as: None
+2025-05-29 18:04:27,089 - Actual digit: two
+2025-05-29 18:04:27,090 - 
+Test 5/5
+2025-05-29 18:04:27,138 - Recognized as: three
+2025-05-29 18:04:27,138 - Actual digit: two
+2025-05-29 18:04:27,138 - 
+Testing digit 'three'
+2025-05-29 18:04:27,140 - 
+Test 1/5
+2025-05-29 18:04:27,186 - Recognized as: two
+2025-05-29 18:04:27,186 - Actual digit: three
+2025-05-29 18:04:27,186 - 
+Test 2/5
+2025-05-29 18:04:27,210 - Recognized as: None
+2025-05-29 18:04:27,211 - Actual digit: three
+2025-05-29 18:04:27,211 - 
+Test 3/5
+2025-05-29 18:04:27,259 - Recognized as: two
+2025-05-29 18:04:27,259 - Actual digit: three
+2025-05-29 18:04:27,260 - 
+Test 4/5
+2025-05-29 18:04:27,307 - Recognized as: two
+2025-05-29 18:04:27,307 - Actual digit: three
+2025-05-29 18:04:27,307 - 
+Test 5/5
+2025-05-29 18:04:27,353 - Recognized as: two
+2025-05-29 18:04:27,354 - Actual digit: three
+2025-05-29 18:04:27,354 - 
+Testing digit 'four'
+2025-05-29 18:04:27,354 - 
+Test 1/5
+2025-05-29 18:04:27,401 - Recognized as: five
+2025-05-29 18:04:27,401 - Actual digit: four
+2025-05-29 18:04:27,401 - 
+Test 2/5
+2025-05-29 18:04:27,446 - Recognized as: four
+2025-05-29 18:04:27,447 - Actual digit: four
+2025-05-29 18:04:27,447 - 
+Test 3/5
+2025-05-29 18:04:27,497 - Recognized as: nine
+2025-05-29 18:04:27,497 - Actual digit: four
+2025-05-29 18:04:27,497 - 
+Test 4/5
+2025-05-29 18:04:27,542 - Recognized as: None
+2025-05-29 18:04:27,542 - Actual digit: four
+2025-05-29 18:04:27,542 - 
+Test 5/5
+2025-05-29 18:04:27,590 - Recognized as: two
+2025-05-29 18:04:27,590 - Actual digit: four
+2025-05-29 18:04:27,590 - 
+Testing digit 'five'
+2025-05-29 18:04:27,590 - 
+Test 1/5
+2025-05-29 18:04:27,636 - Recognized as: five
+2025-05-29 18:04:27,636 - Actual digit: five
+2025-05-29 18:04:27,637 - 
+Test 2/5
+2025-05-29 18:04:27,683 - Recognized as: five
+2025-05-29 18:04:27,683 - Actual digit: five
+2025-05-29 18:04:27,683 - 
+Test 3/5
+2025-05-29 18:04:27,728 - Recognized as: five
+2025-05-29 18:04:27,729 - Actual digit: five
+2025-05-29 18:04:27,729 - 
+Test 4/5
+2025-05-29 18:04:27,775 - Recognized as: None
+2025-05-29 18:04:27,775 - Actual digit: five
+2025-05-29 18:04:27,775 - 
+Test 5/5
+2025-05-29 18:04:27,820 - Recognized as: five
+2025-05-29 18:04:27,820 - Actual digit: five
+2025-05-29 18:04:27,820 - 
+Testing digit 'six'
+2025-05-29 18:04:27,820 - 
+Test 1/5
+2025-05-29 18:04:27,848 - Recognized as: None
+2025-05-29 18:04:27,848 - Actual digit: six
+2025-05-29 18:04:27,848 - 
+Test 2/5
+2025-05-29 18:04:27,896 - Recognized as: two
+2025-05-29 18:04:27,896 - Actual digit: six
+2025-05-29 18:04:27,897 - 
+Test 3/5
+2025-05-29 18:04:27,944 - Recognized as: two
+2025-05-29 18:04:27,945 - Actual digit: six
+2025-05-29 18:04:27,945 - 
+Test 4/5
+2025-05-29 18:04:27,971 - Recognized as: None
+2025-05-29 18:04:27,971 - Actual digit: six
+2025-05-29 18:04:27,971 - 
+Test 5/5
+2025-05-29 18:04:28,021 - Recognized as: three
+2025-05-29 18:04:28,021 - Actual digit: six
+2025-05-29 18:04:28,022 - 
+Testing digit 'seven'
+2025-05-29 18:04:28,022 - 
+Test 1/5
+2025-05-29 18:04:28,068 - Recognized as: five
+2025-05-29 18:04:28,068 - Actual digit: seven
+2025-05-29 18:04:28,068 - 
+Test 2/5
+2025-05-29 18:04:28,114 - Recognized as: two
+2025-05-29 18:04:28,114 - Actual digit: seven
+2025-05-29 18:04:28,114 - 
+Test 3/5
+2025-05-29 18:04:28,164 - Recognized as: nine
+2025-05-29 18:04:28,164 - Actual digit: seven
+2025-05-29 18:04:28,164 - 
+Test 4/5
+2025-05-29 18:04:28,215 - Recognized as: nine
+2025-05-29 18:04:28,215 - Actual digit: seven
+2025-05-29 18:04:28,216 - 
+Test 5/5
+2025-05-29 18:04:28,259 - Recognized as: five
+2025-05-29 18:04:28,260 - Actual digit: seven
+2025-05-29 18:04:28,260 - 
+Testing digit 'eight'
+2025-05-29 18:04:28,260 - 
+Test 1/5
+2025-05-29 18:04:28,308 - Recognized as: six
+2025-05-29 18:04:28,308 - Actual digit: eight
+2025-05-29 18:04:28,308 - 
+Test 2/5
+2025-05-29 18:04:28,352 - Recognized as: five
+2025-05-29 18:04:28,352 - Actual digit: eight
+2025-05-29 18:04:28,352 - 
+Test 3/5
+2025-05-29 18:04:28,405 - Recognized as: None
+2025-05-29 18:04:28,405 - Actual digit: eight
+2025-05-29 18:04:28,406 - 
+Test 4/5
+2025-05-29 18:04:28,455 - Recognized as: None
+2025-05-29 18:04:28,455 - Actual digit: eight
+2025-05-29 18:04:28,455 - 
+Test 5/5
+2025-05-29 18:04:28,504 - Recognized as: None
+2025-05-29 18:04:28,504 - Actual digit: eight
+2025-05-29 18:04:28,504 - 
+Testing digit 'nine'
+2025-05-29 18:04:28,504 - 
+Test 1/5
+2025-05-29 18:04:28,552 - Recognized as: None
+2025-05-29 18:04:28,553 - Actual digit: nine
+2025-05-29 18:04:28,553 - 
+Test 2/5
+2025-05-29 18:04:28,600 - Recognized as: nine
+2025-05-29 18:04:28,600 - Actual digit: nine
+2025-05-29 18:04:28,600 - 
+Test 3/5
+2025-05-29 18:04:28,645 - Recognized as: four
+2025-05-29 18:04:28,645 - Actual digit: nine
+2025-05-29 18:04:28,645 - 
+Test 4/5
+2025-05-29 18:04:28,695 - Recognized as: one
+2025-05-29 18:04:28,695 - Actual digit: nine
+2025-05-29 18:04:28,696 - 
+Test 5/5
+2025-05-29 18:04:28,742 - Recognized as: nine
+2025-05-29 18:04:28,742 - Actual digit: nine
+2025-05-29 18:04:28,743 - 
+Overall accuracy: 14.00%
+2025-05-29 18:04:28,743 - 
+Testing with band ratio: 0.15
+2025-05-29 18:04:28,743 - 
+=== Testing Recognition ===
+2025-05-29 18:04:28,744 - 
+Testing digit 'zero'
+2025-05-29 18:04:28,744 - 
+Test 1/5
+2025-05-29 18:04:28,791 - Recognized as: None
+2025-05-29 18:04:28,791 - Actual digit: zero
+2025-05-29 18:04:28,791 - 
+Test 2/5
+2025-05-29 18:04:28,842 - Recognized as: None
+2025-05-29 18:04:28,842 - Actual digit: zero
+2025-05-29 18:04:28,842 - 
+Test 3/5
+2025-05-29 18:04:28,890 - Recognized as: None
+2025-05-29 18:04:28,890 - Actual digit: zero
+2025-05-29 18:04:28,890 - 
+Test 4/5
+2025-05-29 18:04:28,938 - Recognized as: None
+2025-05-29 18:04:28,939 - Actual digit: zero
+2025-05-29 18:04:28,939 - 
+Test 5/5
+2025-05-29 18:04:28,992 - Recognized as: None
+2025-05-29 18:04:28,992 - Actual digit: zero
+2025-05-29 18:04:28,992 - 
+Testing digit 'one'
+2025-05-29 18:04:28,992 - 
+Test 1/5
+2025-05-29 18:04:29,040 - Recognized as: nine
+2025-05-29 18:04:29,041 - Actual digit: one
+2025-05-29 18:04:29,041 - 
+Test 2/5
+2025-05-29 18:04:29,091 - Recognized as: seven
+2025-05-29 18:04:29,092 - Actual digit: one
+2025-05-29 18:04:29,093 - 
+Test 3/5
+2025-05-29 18:04:29,143 - Recognized as: seven
+2025-05-29 18:04:29,143 - Actual digit: one
+2025-05-29 18:04:29,146 - 
+Test 4/5
+2025-05-29 18:04:29,194 - Recognized as: seven
+2025-05-29 18:04:29,194 - Actual digit: one
+2025-05-29 18:04:29,194 - 
+Test 5/5
+2025-05-29 18:04:29,241 - Recognized as: seven
+2025-05-29 18:04:29,241 - Actual digit: one
+2025-05-29 18:04:29,241 - 
+Testing digit 'two'
+2025-05-29 18:04:29,242 - 
+Test 1/5
+2025-05-29 18:04:29,287 - Recognized as: five
+2025-05-29 18:04:29,287 - Actual digit: two
+2025-05-29 18:04:29,289 - 
+Test 2/5
+2025-05-29 18:04:29,337 - Recognized as: seven
+2025-05-29 18:04:29,337 - Actual digit: two
+2025-05-29 18:04:29,337 - 
+Test 3/5
+2025-05-29 18:04:29,386 - Recognized as: None
+2025-05-29 18:04:29,387 - Actual digit: two
+2025-05-29 18:04:29,387 - 
+Test 4/5
+2025-05-29 18:04:29,435 - Recognized as: None
+2025-05-29 18:04:29,435 - Actual digit: two
+2025-05-29 18:04:29,435 - 
+Test 5/5
+2025-05-29 18:04:29,482 - Recognized as: three
+2025-05-29 18:04:29,482 - Actual digit: two
+2025-05-29 18:04:29,482 - 
+Testing digit 'three'
+2025-05-29 18:04:29,483 - 
+Test 1/5
+2025-05-29 18:04:29,531 - Recognized as: two
+2025-05-29 18:04:29,531 - Actual digit: three
+2025-05-29 18:04:29,531 - 
+Test 2/5
+2025-05-29 18:04:29,556 - Recognized as: None
+2025-05-29 18:04:29,556 - Actual digit: three
+2025-05-29 18:04:29,556 - 
+Test 3/5
+2025-05-29 18:04:29,603 - Recognized as: two
+2025-05-29 18:04:29,603 - Actual digit: three
+2025-05-29 18:04:29,603 - 
+Test 4/5
+2025-05-29 18:04:29,649 - Recognized as: two
+2025-05-29 18:04:29,650 - Actual digit: three
+2025-05-29 18:04:29,650 - 
+Test 5/5
+2025-05-29 18:04:29,696 - Recognized as: two
+2025-05-29 18:04:29,696 - Actual digit: three
+2025-05-29 18:04:29,697 - 
+Testing digit 'four'
+2025-05-29 18:04:29,697 - 
+Test 1/5
+2025-05-29 18:04:29,739 - Recognized as: five
+2025-05-29 18:04:29,741 - Actual digit: four
+2025-05-29 18:04:29,741 - 
+Test 2/5
+2025-05-29 18:04:29,787 - Recognized as: four
+2025-05-29 18:04:29,787 - Actual digit: four
+2025-05-29 18:04:29,788 - 
+Test 3/5
+2025-05-29 18:04:29,835 - Recognized as: nine
+2025-05-29 18:04:29,836 - Actual digit: four
+2025-05-29 18:04:29,836 - 
+Test 4/5
+2025-05-29 18:04:29,880 - Recognized as: None
+2025-05-29 18:04:29,880 - Actual digit: four
+2025-05-29 18:04:29,881 - 
+Test 5/5
+2025-05-29 18:04:29,927 - Recognized as: two
+2025-05-29 18:04:29,928 - Actual digit: four
+2025-05-29 18:04:29,928 - 
+Testing digit 'five'
+2025-05-29 18:04:29,928 - 
+Test 1/5
+2025-05-29 18:04:29,973 - Recognized as: five
+2025-05-29 18:04:29,973 - Actual digit: five
+2025-05-29 18:04:29,973 - 
+Test 2/5
+2025-05-29 18:04:30,019 - Recognized as: five
+2025-05-29 18:04:30,019 - Actual digit: five
+2025-05-29 18:04:30,019 - 
+Test 3/5
+2025-05-29 18:04:30,066 - Recognized as: five
+2025-05-29 18:04:30,066 - Actual digit: five
+2025-05-29 18:04:30,066 - 
+Test 4/5
+2025-05-29 18:04:30,110 - Recognized as: None
+2025-05-29 18:04:30,110 - Actual digit: five
+2025-05-29 18:04:30,110 - 
+Test 5/5
+2025-05-29 18:04:30,155 - Recognized as: five
+2025-05-29 18:04:30,156 - Actual digit: five
+2025-05-29 18:04:30,156 - 
+Testing digit 'six'
+2025-05-29 18:04:30,156 - 
+Test 1/5
+2025-05-29 18:04:30,184 - Recognized as: None
+2025-05-29 18:04:30,184 - Actual digit: six
+2025-05-29 18:04:30,185 - 
+Test 2/5
+2025-05-29 18:04:30,234 - Recognized as: two
+2025-05-29 18:04:30,234 - Actual digit: six
+2025-05-29 18:04:30,234 - 
+Test 3/5
+2025-05-29 18:04:30,281 - Recognized as: two
+2025-05-29 18:04:30,281 - Actual digit: six
+2025-05-29 18:04:30,281 - 
+Test 4/5
+2025-05-29 18:04:30,306 - Recognized as: None
+2025-05-29 18:04:30,306 - Actual digit: six
+2025-05-29 18:04:30,306 - 
+Test 5/5
+2025-05-29 18:04:30,353 - Recognized as: three
+2025-05-29 18:04:30,353 - Actual digit: six
+2025-05-29 18:04:30,353 - 
+Testing digit 'seven'
+2025-05-29 18:04:30,354 - 
+Test 1/5
+2025-05-29 18:04:30,401 - Recognized as: five
+2025-05-29 18:04:30,401 - Actual digit: seven
+2025-05-29 18:04:30,401 - 
+Test 2/5
+2025-05-29 18:04:30,449 - Recognized as: two
+2025-05-29 18:04:30,449 - Actual digit: seven
+2025-05-29 18:04:30,449 - 
+Test 3/5
+2025-05-29 18:04:30,497 - Recognized as: nine
+2025-05-29 18:04:30,498 - Actual digit: seven
+2025-05-29 18:04:30,498 - 
+Test 4/5
+2025-05-29 18:04:30,547 - Recognized as: nine
+2025-05-29 18:04:30,547 - Actual digit: seven
+2025-05-29 18:04:30,547 - 
+Test 5/5
+2025-05-29 18:04:30,592 - Recognized as: five
+2025-05-29 18:04:30,593 - Actual digit: seven
+2025-05-29 18:04:30,593 - 
+Testing digit 'eight'
+2025-05-29 18:04:30,595 - 
+Test 1/5
+2025-05-29 18:04:30,643 - Recognized as: six
+2025-05-29 18:04:30,643 - Actual digit: eight
+2025-05-29 18:04:30,644 - 
+Test 2/5
+2025-05-29 18:04:30,688 - Recognized as: five
+2025-05-29 18:04:30,689 - Actual digit: eight
+2025-05-29 18:04:30,692 - 
+Test 3/5
+2025-05-29 18:04:30,741 - Recognized as: None
+2025-05-29 18:04:30,741 - Actual digit: eight
+2025-05-29 18:04:30,741 - 
+Test 4/5
+2025-05-29 18:04:30,788 - Recognized as: None
+2025-05-29 18:04:30,788 - Actual digit: eight
+2025-05-29 18:04:30,789 - 
+Test 5/5
+2025-05-29 18:04:30,838 - Recognized as: None
+2025-05-29 18:04:30,838 - Actual digit: eight
+2025-05-29 18:04:30,838 - 
+Testing digit 'nine'
+2025-05-29 18:04:30,838 - 
+Test 1/5
+2025-05-29 18:04:30,886 - Recognized as: None
+2025-05-29 18:04:30,886 - Actual digit: nine
+2025-05-29 18:04:30,887 - 
+Test 2/5
+2025-05-29 18:04:30,934 - Recognized as: nine
+2025-05-29 18:04:30,934 - Actual digit: nine
+2025-05-29 18:04:30,935 - 
+Test 3/5
+2025-05-29 18:04:30,986 - Recognized as: four
+2025-05-29 18:04:30,987 - Actual digit: nine
+2025-05-29 18:04:30,987 - 
+Test 4/5
+2025-05-29 18:04:31,035 - Recognized as: one
+2025-05-29 18:04:31,035 - Actual digit: nine
+2025-05-29 18:04:31,037 - 
+Test 5/5
+2025-05-29 18:04:31,086 - Recognized as: nine
+2025-05-29 18:04:31,086 - Actual digit: nine
+2025-05-29 18:04:31,086 - 
+Overall accuracy: 14.00%
+2025-05-29 18:04:31,086 - 
+Testing with band ratio: 0.2
+2025-05-29 18:04:31,087 - 
+=== Testing Recognition ===
+2025-05-29 18:04:31,087 - 
+Testing digit 'zero'
+2025-05-29 18:04:31,087 - 
+Test 1/5
+2025-05-29 18:04:31,136 - Recognized as: None
+2025-05-29 18:04:31,136 - Actual digit: zero
+2025-05-29 18:04:31,136 - 
+Test 2/5
+2025-05-29 18:04:31,188 - Recognized as: None
+2025-05-29 18:04:31,188 - Actual digit: zero
+2025-05-29 18:04:31,189 - 
+Test 3/5
+2025-05-29 18:04:31,239 - Recognized as: None
+2025-05-29 18:04:31,240 - Actual digit: zero
+2025-05-29 18:04:31,240 - 
+Test 4/5
+2025-05-29 18:04:31,288 - Recognized as: None
+2025-05-29 18:04:31,288 - Actual digit: zero
+2025-05-29 18:04:31,289 - 
+Test 5/5
+2025-05-29 18:04:31,337 - Recognized as: None
+2025-05-29 18:04:31,338 - Actual digit: zero
+2025-05-29 18:04:31,338 - 
+Testing digit 'one'
+2025-05-29 18:04:31,338 - 
+Test 1/5
+2025-05-29 18:04:31,385 - Recognized as: nine
+2025-05-29 18:04:31,385 - Actual digit: one
+2025-05-29 18:04:31,385 - 
+Test 2/5
+2025-05-29 18:04:31,432 - Recognized as: seven
+2025-05-29 18:04:31,432 - Actual digit: one
+2025-05-29 18:04:31,432 - 
+Test 3/5
+2025-05-29 18:04:31,480 - Recognized as: seven
+2025-05-29 18:04:31,480 - Actual digit: one
+2025-05-29 18:04:31,480 - 
+Test 4/5
+2025-05-29 18:04:31,527 - Recognized as: seven
+2025-05-29 18:04:31,528 - Actual digit: one
+2025-05-29 18:04:31,528 - 
+Test 5/5
+2025-05-29 18:04:31,587 - Recognized as: seven
+2025-05-29 18:04:31,587 - Actual digit: one
+2025-05-29 18:04:31,587 - 
+Testing digit 'two'
+2025-05-29 18:04:31,587 - 
+Test 1/5
+2025-05-29 18:04:31,632 - Recognized as: five
+2025-05-29 18:04:31,633 - Actual digit: two
+2025-05-29 18:04:31,635 - 
+Test 2/5
+2025-05-29 18:04:31,682 - Recognized as: seven
+2025-05-29 18:04:31,682 - Actual digit: two
+2025-05-29 18:04:31,682 - 
+Test 3/5
+2025-05-29 18:04:31,729 - Recognized as: None
+2025-05-29 18:04:31,729 - Actual digit: two
+2025-05-29 18:04:31,730 - 
+Test 4/5
+2025-05-29 18:04:31,777 - Recognized as: None
+2025-05-29 18:04:31,778 - Actual digit: two
+2025-05-29 18:04:31,778 - 
+Test 5/5
+2025-05-29 18:04:31,826 - Recognized as: three
+2025-05-29 18:04:31,826 - Actual digit: two
+2025-05-29 18:04:31,827 - 
+Testing digit 'three'
+2025-05-29 18:04:31,827 - 
+Test 1/5
+2025-05-29 18:04:31,874 - Recognized as: two
+2025-05-29 18:04:31,874 - Actual digit: three
+2025-05-29 18:04:31,875 - 
+Test 2/5
+2025-05-29 18:04:31,901 - Recognized as: None
+2025-05-29 18:04:31,901 - Actual digit: three
+2025-05-29 18:04:31,901 - 
+Test 3/5
+2025-05-29 18:04:31,946 - Recognized as: two
+2025-05-29 18:04:31,947 - Actual digit: three
+2025-05-29 18:04:31,947 - 
+Test 4/5
+2025-05-29 18:04:31,994 - Recognized as: two
+2025-05-29 18:04:31,994 - Actual digit: three
+2025-05-29 18:04:31,994 - 
+Test 5/5
+2025-05-29 18:04:32,040 - Recognized as: two
+2025-05-29 18:04:32,041 - Actual digit: three
+2025-05-29 18:04:32,041 - 
+Testing digit 'four'
+2025-05-29 18:04:32,043 - 
+Test 1/5
+2025-05-29 18:04:32,089 - Recognized as: five
+2025-05-29 18:04:32,089 - Actual digit: four
+2025-05-29 18:04:32,089 - 
+Test 2/5
+2025-05-29 18:04:32,136 - Recognized as: four
+2025-05-29 18:04:32,136 - Actual digit: four
+2025-05-29 18:04:32,137 - 
+Test 3/5
+2025-05-29 18:04:32,185 - Recognized as: nine
+2025-05-29 18:04:32,185 - Actual digit: four
+2025-05-29 18:04:32,186 - 
+Test 4/5
+2025-05-29 18:04:32,229 - Recognized as: None
+2025-05-29 18:04:32,229 - Actual digit: four
+2025-05-29 18:04:32,231 - 
+Test 5/5
+2025-05-29 18:04:32,276 - Recognized as: two
+2025-05-29 18:04:32,276 - Actual digit: four
+2025-05-29 18:04:32,277 - 
+Testing digit 'five'
+2025-05-29 18:04:32,277 - 
+Test 1/5
+2025-05-29 18:04:32,322 - Recognized as: five
+2025-05-29 18:04:32,323 - Actual digit: five
+2025-05-29 18:04:32,323 - 
+Test 2/5
+2025-05-29 18:04:32,371 - Recognized as: five
+2025-05-29 18:04:32,371 - Actual digit: five
+2025-05-29 18:04:32,371 - 
+Test 3/5
+2025-05-29 18:04:32,417 - Recognized as: five
+2025-05-29 18:04:32,417 - Actual digit: five
+2025-05-29 18:04:32,417 - 
+Test 4/5
+2025-05-29 18:04:32,460 - Recognized as: None
+2025-05-29 18:04:32,461 - Actual digit: five
+2025-05-29 18:04:32,461 - 
+Test 5/5
+2025-05-29 18:04:32,508 - Recognized as: five
+2025-05-29 18:04:32,508 - Actual digit: five
+2025-05-29 18:04:32,508 - 
+Testing digit 'six'
+2025-05-29 18:04:32,508 - 
+Test 1/5
+2025-05-29 18:04:32,534 - Recognized as: None
+2025-05-29 18:04:32,535 - Actual digit: six
+2025-05-29 18:04:32,535 - 
+Test 2/5
+2025-05-29 18:04:32,583 - Recognized as: two
+2025-05-29 18:04:32,583 - Actual digit: six
+2025-05-29 18:04:32,583 - 
+Test 3/5
+2025-05-29 18:04:32,628 - Recognized as: two
+2025-05-29 18:04:32,629 - Actual digit: six
+2025-05-29 18:04:32,629 - 
+Test 4/5
+2025-05-29 18:04:32,655 - Recognized as: None
+2025-05-29 18:04:32,655 - Actual digit: six
+2025-05-29 18:04:32,655 - 
+Test 5/5
+2025-05-29 18:04:32,703 - Recognized as: three
+2025-05-29 18:04:32,704 - Actual digit: six
+2025-05-29 18:04:32,704 - 
+Testing digit 'seven'
+2025-05-29 18:04:32,704 - 
+Test 1/5
+2025-05-29 18:04:32,750 - Recognized as: five
+2025-05-29 18:04:32,750 - Actual digit: seven
+2025-05-29 18:04:32,751 - 
+Test 2/5
+2025-05-29 18:04:32,795 - Recognized as: two
+2025-05-29 18:04:32,795 - Actual digit: seven
+2025-05-29 18:04:32,796 - 
+Test 3/5
+2025-05-29 18:04:32,843 - Recognized as: nine
+2025-05-29 18:04:32,844 - Actual digit: seven
+2025-05-29 18:04:32,844 - 
+Test 4/5
+2025-05-29 18:04:32,892 - Recognized as: nine
+2025-05-29 18:04:32,892 - Actual digit: seven
+2025-05-29 18:04:32,892 - 
+Test 5/5
+2025-05-29 18:04:32,937 - Recognized as: five
+2025-05-29 18:04:32,938 - Actual digit: seven
+2025-05-29 18:04:32,938 - 
+Testing digit 'eight'
+2025-05-29 18:04:32,938 - 
+Test 1/5
+2025-05-29 18:04:32,985 - Recognized as: six
+2025-05-29 18:04:32,985 - Actual digit: eight
+2025-05-29 18:04:32,986 - 
+Test 2/5
+2025-05-29 18:04:33,033 - Recognized as: five
+2025-05-29 18:04:33,033 - Actual digit: eight
+2025-05-29 18:04:33,034 - 
+Test 3/5
+2025-05-29 18:04:33,082 - Recognized as: None
+2025-05-29 18:04:33,083 - Actual digit: eight
+2025-05-29 18:04:33,083 - 
+Test 4/5
+2025-05-29 18:04:33,133 - Recognized as: None
+2025-05-29 18:04:33,134 - Actual digit: eight
+2025-05-29 18:04:33,134 - 
+Test 5/5
+2025-05-29 18:04:33,183 - Recognized as: None
+2025-05-29 18:04:33,184 - Actual digit: eight
+2025-05-29 18:04:33,184 - 
+Testing digit 'nine'
+2025-05-29 18:04:33,184 - 
+Test 1/5
+2025-05-29 18:04:33,232 - Recognized as: None
+2025-05-29 18:04:33,232 - Actual digit: nine
+2025-05-29 18:04:33,232 - 
+Test 2/5
+2025-05-29 18:04:33,280 - Recognized as: nine
+2025-05-29 18:04:33,280 - Actual digit: nine
+2025-05-29 18:04:33,281 - 
+Test 3/5
+2025-05-29 18:04:33,327 - Recognized as: four
+2025-05-29 18:04:33,327 - Actual digit: nine
+2025-05-29 18:04:33,327 - 
+Test 4/5
+2025-05-29 18:04:33,375 - Recognized as: one
+2025-05-29 18:04:33,375 - Actual digit: nine
+2025-05-29 18:04:33,375 - 
+Test 5/5
+2025-05-29 18:04:33,422 - Recognized as: nine
+2025-05-29 18:04:33,423 - Actual digit: nine
+2025-05-29 18:04:33,423 - 
+Overall accuracy: 14.00%
+2025-05-29 18:04:33,423 - 
+Testing with band ratio: 0.25
+2025-05-29 18:04:33,423 - 
+=== Testing Recognition ===
+2025-05-29 18:04:33,424 - 
+Testing digit 'zero'
+2025-05-29 18:04:33,424 - 
+Test 1/5
+2025-05-29 18:04:33,473 - Recognized as: None
+2025-05-29 18:04:33,473 - Actual digit: zero
+2025-05-29 18:04:33,473 - 
+Test 2/5
+2025-05-29 18:04:33,522 - Recognized as: None
+2025-05-29 18:04:33,522 - Actual digit: zero
+2025-05-29 18:04:33,522 - 
+Test 3/5
+2025-05-29 18:04:33,569 - Recognized as: None
+2025-05-29 18:04:33,569 - Actual digit: zero
+2025-05-29 18:04:33,569 - 
+Test 4/5
+2025-05-29 18:04:33,618 - Recognized as: None
+2025-05-29 18:04:33,618 - Actual digit: zero
+2025-05-29 18:04:33,618 - 
+Test 5/5
+2025-05-29 18:04:33,668 - Recognized as: None
+2025-05-29 18:04:33,668 - Actual digit: zero
+2025-05-29 18:04:33,669 - 
+Testing digit 'one'
+2025-05-29 18:04:33,669 - 
+Test 1/5
+2025-05-29 18:04:33,716 - Recognized as: nine
+2025-05-29 18:04:33,717 - Actual digit: one
+2025-05-29 18:04:33,717 - 
+Test 2/5
+2025-05-29 18:04:33,767 - Recognized as: seven
+2025-05-29 18:04:33,767 - Actual digit: one
+2025-05-29 18:04:33,767 - 
+Test 3/5
+2025-05-29 18:04:33,814 - Recognized as: seven
+2025-05-29 18:04:33,814 - Actual digit: one
+2025-05-29 18:04:33,814 - 
+Test 4/5
+2025-05-29 18:04:33,862 - Recognized as: seven
+2025-05-29 18:04:33,862 - Actual digit: one
+2025-05-29 18:04:33,863 - 
+Test 5/5
+2025-05-29 18:04:33,911 - Recognized as: seven
+2025-05-29 18:04:33,911 - Actual digit: one
+2025-05-29 18:04:33,912 - 
+Testing digit 'two'
+2025-05-29 18:04:33,912 - 
+Test 1/5
+2025-05-29 18:04:33,957 - Recognized as: five
+2025-05-29 18:04:33,957 - Actual digit: two
+2025-05-29 18:04:33,957 - 
+Test 2/5
+2025-05-29 18:04:34,006 - Recognized as: seven
+2025-05-29 18:04:34,006 - Actual digit: two
+2025-05-29 18:04:34,006 - 
+Test 3/5
+2025-05-29 18:04:34,054 - Recognized as: None
+2025-05-29 18:04:34,055 - Actual digit: two
+2025-05-29 18:04:34,055 - 
+Test 4/5
+2025-05-29 18:04:34,104 - Recognized as: None
+2025-05-29 18:04:34,104 - Actual digit: two
+2025-05-29 18:04:34,105 - 
+Test 5/5
+2025-05-29 18:04:34,154 - Recognized as: three
+2025-05-29 18:04:34,154 - Actual digit: two
+2025-05-29 18:04:34,154 - 
+Testing digit 'three'
+2025-05-29 18:04:34,155 - 
+Test 1/5
+2025-05-29 18:04:34,204 - Recognized as: two
+2025-05-29 18:04:34,205 - Actual digit: three
+2025-05-29 18:04:34,206 - 
+Test 2/5
+2025-05-29 18:04:34,231 - Recognized as: None
+2025-05-29 18:04:34,232 - Actual digit: three
+2025-05-29 18:04:34,232 - 
+Test 3/5
+2025-05-29 18:04:34,280 - Recognized as: two
+2025-05-29 18:04:34,280 - Actual digit: three
+2025-05-29 18:04:34,280 - 
+Test 4/5
+2025-05-29 18:04:34,325 - Recognized as: two
+2025-05-29 18:04:34,326 - Actual digit: three
+2025-05-29 18:04:34,326 - 
+Test 5/5
+2025-05-29 18:04:34,373 - Recognized as: two
+2025-05-29 18:04:34,373 - Actual digit: three
+2025-05-29 18:04:34,374 - 
+Testing digit 'four'
+2025-05-29 18:04:34,374 - 
+Test 1/5
+2025-05-29 18:04:34,418 - Recognized as: five
+2025-05-29 18:04:34,418 - Actual digit: four
+2025-05-29 18:04:34,419 - 
+Test 2/5
+2025-05-29 18:04:34,464 - Recognized as: four
+2025-05-29 18:04:34,464 - Actual digit: four
+2025-05-29 18:04:34,464 - 
+Test 3/5
+2025-05-29 18:04:34,511 - Recognized as: nine
+2025-05-29 18:04:34,511 - Actual digit: four
+2025-05-29 18:04:34,511 - 
+Test 4/5
+2025-05-29 18:04:34,554 - Recognized as: None
+2025-05-29 18:04:34,555 - Actual digit: four
+2025-05-29 18:04:34,555 - 
+Test 5/5
+2025-05-29 18:04:34,602 - Recognized as: two
+2025-05-29 18:04:34,602 - Actual digit: four
+2025-05-29 18:04:34,602 - 
+Testing digit 'five'
+2025-05-29 18:04:34,602 - 
+Test 1/5
+2025-05-29 18:04:34,648 - Recognized as: five
+2025-05-29 18:04:34,648 - Actual digit: five
+2025-05-29 18:04:34,649 - 
+Test 2/5
+2025-05-29 18:04:34,697 - Recognized as: five
+2025-05-29 18:04:34,698 - Actual digit: five
+2025-05-29 18:04:34,698 - 
+Test 3/5
+2025-05-29 18:04:34,743 - Recognized as: five
+2025-05-29 18:04:34,743 - Actual digit: five
+2025-05-29 18:04:34,743 - 
+Test 4/5
+2025-05-29 18:04:34,785 - Recognized as: None
+2025-05-29 18:04:34,786 - Actual digit: five
+2025-05-29 18:04:34,786 - 
+Test 5/5
+2025-05-29 18:04:34,831 - Recognized as: five
+2025-05-29 18:04:34,832 - Actual digit: five
+2025-05-29 18:04:34,832 - 
+Testing digit 'six'
+2025-05-29 18:04:34,832 - 
+Test 1/5
+2025-05-29 18:04:34,857 - Recognized as: None
+2025-05-29 18:04:34,858 - Actual digit: six
+2025-05-29 18:04:34,859 - 
+Test 2/5
+2025-05-29 18:04:34,905 - Recognized as: two
+2025-05-29 18:04:34,906 - Actual digit: six
+2025-05-29 18:04:34,906 - 
+Test 3/5
+2025-05-29 18:04:34,953 - Recognized as: two
+2025-05-29 18:04:34,954 - Actual digit: six
+2025-05-29 18:04:34,954 - 
+Test 4/5
+2025-05-29 18:04:34,980 - Recognized as: None
+2025-05-29 18:04:34,980 - Actual digit: six
+2025-05-29 18:04:34,980 - 
+Test 5/5
+2025-05-29 18:04:35,028 - Recognized as: three
+2025-05-29 18:04:35,028 - Actual digit: six
+2025-05-29 18:04:35,029 - 
+Testing digit 'seven'
+2025-05-29 18:04:35,029 - 
+Test 1/5
+2025-05-29 18:04:35,072 - Recognized as: five
+2025-05-29 18:04:35,072 - Actual digit: seven
+2025-05-29 18:04:35,073 - 
+Test 2/5
+2025-05-29 18:04:35,120 - Recognized as: two
+2025-05-29 18:04:35,120 - Actual digit: seven
+2025-05-29 18:04:35,120 - 
+Test 3/5
+2025-05-29 18:04:35,167 - Recognized as: nine
+2025-05-29 18:04:35,167 - Actual digit: seven
+2025-05-29 18:04:35,167 - 
+Test 4/5
+2025-05-29 18:04:35,216 - Recognized as: nine
+2025-05-29 18:04:35,216 - Actual digit: seven
+2025-05-29 18:04:35,216 - 
+Test 5/5
+2025-05-29 18:04:35,263 - Recognized as: five
+2025-05-29 18:04:35,264 - Actual digit: seven
+2025-05-29 18:04:35,264 - 
+Testing digit 'eight'
+2025-05-29 18:04:35,264 - 
+Test 1/5
+2025-05-29 18:04:35,313 - Recognized as: six
+2025-05-29 18:04:35,313 - Actual digit: eight
+2025-05-29 18:04:35,313 - 
+Test 2/5
+2025-05-29 18:04:35,359 - Recognized as: five
+2025-05-29 18:04:35,360 - Actual digit: eight
+2025-05-29 18:04:35,360 - 
+Test 3/5
+2025-05-29 18:04:35,409 - Recognized as: None
+2025-05-29 18:04:35,410 - Actual digit: eight
+2025-05-29 18:04:35,411 - 
+Test 4/5
+2025-05-29 18:04:35,460 - Recognized as: None
+2025-05-29 18:04:35,460 - Actual digit: eight
+2025-05-29 18:04:35,460 - 
+Test 5/5
+2025-05-29 18:04:35,509 - Recognized as: None
+2025-05-29 18:04:35,509 - Actual digit: eight
+2025-05-29 18:04:35,510 - 
+Testing digit 'nine'
+2025-05-29 18:04:35,510 - 
+Test 1/5
+2025-05-29 18:04:35,559 - Recognized as: None
+2025-05-29 18:04:35,559 - Actual digit: nine
+2025-05-29 18:04:35,559 - 
+Test 2/5
+2025-05-29 18:04:35,606 - Recognized as: nine
+2025-05-29 18:04:35,607 - Actual digit: nine
+2025-05-29 18:04:35,607 - 
+Test 3/5
+2025-05-29 18:04:35,652 - Recognized as: four
+2025-05-29 18:04:35,653 - Actual digit: nine
+2025-05-29 18:04:35,653 - 
+Test 4/5
+2025-05-29 18:04:35,699 - Recognized as: one
+2025-05-29 18:04:35,699 - Actual digit: nine
+2025-05-29 18:04:35,699 - 
+Test 5/5
+2025-05-29 18:04:35,746 - Recognized as: nine
+2025-05-29 18:04:35,746 - Actual digit: nine
+2025-05-29 18:04:35,746 - 
+Overall accuracy: 14.00%
+2025-05-29 18:04:35,746 - 
+Testing with band ratio: 0.3
+2025-05-29 18:04:35,747 - 
+=== Testing Recognition ===
+2025-05-29 18:04:35,747 - 
+Testing digit 'zero'
+2025-05-29 18:04:35,747 - 
+Test 1/5
+2025-05-29 18:04:35,797 - Recognized as: None
+2025-05-29 18:04:35,797 - Actual digit: zero
+2025-05-29 18:04:35,797 - 
+Test 2/5
+2025-05-29 18:04:35,843 - Recognized as: None
+2025-05-29 18:04:35,844 - Actual digit: zero
+2025-05-29 18:04:35,844 - 
+Test 3/5
+2025-05-29 18:04:35,891 - Recognized as: None
+2025-05-29 18:04:35,892 - Actual digit: zero
+2025-05-29 18:04:35,892 - 
+Test 4/5
+2025-05-29 18:04:35,943 - Recognized as: None
+2025-05-29 18:04:35,943 - Actual digit: zero
+2025-05-29 18:04:35,943 - 
+Test 5/5
+2025-05-29 18:04:35,992 - Recognized as: None
+2025-05-29 18:04:35,992 - Actual digit: zero
+2025-05-29 18:04:35,992 - 
+Testing digit 'one'
+2025-05-29 18:04:35,992 - 
+Test 1/5
+2025-05-29 18:04:36,042 - Recognized as: nine
+2025-05-29 18:04:36,042 - Actual digit: one
+2025-05-29 18:04:36,042 - 
+Test 2/5
+2025-05-29 18:04:36,090 - Recognized as: seven
+2025-05-29 18:04:36,090 - Actual digit: one
+2025-05-29 18:04:36,090 - 
+Test 3/5
+2025-05-29 18:04:36,135 - Recognized as: seven
+2025-05-29 18:04:36,136 - Actual digit: one
+2025-05-29 18:04:36,136 - 
+Test 4/5
+2025-05-29 18:04:36,182 - Recognized as: seven
+2025-05-29 18:04:36,182 - Actual digit: one
+2025-05-29 18:04:36,183 - 
+Test 5/5
+2025-05-29 18:04:36,231 - Recognized as: seven
+2025-05-29 18:04:36,231 - Actual digit: one
+2025-05-29 18:04:36,231 - 
+Testing digit 'two'
+2025-05-29 18:04:36,231 - 
+Test 1/5
+2025-05-29 18:04:36,278 - Recognized as: five
+2025-05-29 18:04:36,278 - Actual digit: two
+2025-05-29 18:04:36,278 - 
+Test 2/5
+2025-05-29 18:04:36,327 - Recognized as: seven
+2025-05-29 18:04:36,328 - Actual digit: two
+2025-05-29 18:04:36,328 - 
+Test 3/5
+2025-05-29 18:04:36,375 - Recognized as: None
+2025-05-29 18:04:36,376 - Actual digit: two
+2025-05-29 18:04:36,376 - 
+Test 4/5
+2025-05-29 18:04:36,425 - Recognized as: None
+2025-05-29 18:04:36,426 - Actual digit: two
+2025-05-29 18:04:36,426 - 
+Test 5/5
+2025-05-29 18:04:36,471 - Recognized as: three
+2025-05-29 18:04:36,471 - Actual digit: two
+2025-05-29 18:04:36,472 - 
+Testing digit 'three'
+2025-05-29 18:04:36,472 - 
+Test 1/5
+2025-05-29 18:04:36,516 - Recognized as: two
+2025-05-29 18:04:36,517 - Actual digit: three
+2025-05-29 18:04:36,517 - 
+Test 2/5
+2025-05-29 18:04:36,542 - Recognized as: None
+2025-05-29 18:04:36,542 - Actual digit: three
+2025-05-29 18:04:36,543 - 
+Test 3/5
+2025-05-29 18:04:36,590 - Recognized as: two
+2025-05-29 18:04:36,591 - Actual digit: three
+2025-05-29 18:04:36,591 - 
+Test 4/5
+2025-05-29 18:04:36,638 - Recognized as: two
+2025-05-29 18:04:36,638 - Actual digit: three
+2025-05-29 18:04:36,639 - 
+Test 5/5
+2025-05-29 18:04:36,686 - Recognized as: two
+2025-05-29 18:04:36,686 - Actual digit: three
+2025-05-29 18:04:36,686 - 
+Testing digit 'four'
+2025-05-29 18:04:36,687 - 
+Test 1/5
+2025-05-29 18:04:36,732 - Recognized as: five
+2025-05-29 18:04:36,732 - Actual digit: four
+2025-05-29 18:04:36,732 - 
+Test 2/5
+2025-05-29 18:04:36,779 - Recognized as: four
+2025-05-29 18:04:36,779 - Actual digit: four
+2025-05-29 18:04:36,779 - 
+Test 3/5
+2025-05-29 18:04:36,827 - Recognized as: nine
+2025-05-29 18:04:36,828 - Actual digit: four
+2025-05-29 18:04:36,828 - 
+Test 4/5
+2025-05-29 18:04:36,871 - Recognized as: None
+2025-05-29 18:04:36,871 - Actual digit: four
+2025-05-29 18:04:36,871 - 
+Test 5/5
+2025-05-29 18:04:36,916 - Recognized as: two
+2025-05-29 18:04:36,916 - Actual digit: four
+2025-05-29 18:04:36,916 - 
+Testing digit 'five'
+2025-05-29 18:04:36,917 - 
+Test 1/5
+2025-05-29 18:04:36,962 - Recognized as: five
+2025-05-29 18:04:36,962 - Actual digit: five
+2025-05-29 18:04:36,963 - 
+Test 2/5
+2025-05-29 18:04:37,009 - Recognized as: five
+2025-05-29 18:04:37,009 - Actual digit: five
+2025-05-29 18:04:37,010 - 
+Test 3/5
+2025-05-29 18:04:37,055 - Recognized as: five
+2025-05-29 18:04:37,055 - Actual digit: five
+2025-05-29 18:04:37,055 - 
+Test 4/5
+2025-05-29 18:04:37,098 - Recognized as: None
+2025-05-29 18:04:37,098 - Actual digit: five
+2025-05-29 18:04:37,098 - 
+Test 5/5
+2025-05-29 18:04:37,143 - Recognized as: five
+2025-05-29 18:04:37,143 - Actual digit: five
+2025-05-29 18:04:37,144 - 
+Testing digit 'six'
+2025-05-29 18:04:37,144 - 
+Test 1/5
+2025-05-29 18:04:37,170 - Recognized as: None
+2025-05-29 18:04:37,170 - Actual digit: six
+2025-05-29 18:04:37,170 - 
+Test 2/5
+2025-05-29 18:04:37,216 - Recognized as: two
+2025-05-29 18:04:37,216 - Actual digit: six
+2025-05-29 18:04:37,216 - 
+Test 3/5
+2025-05-29 18:04:37,262 - Recognized as: two
+2025-05-29 18:04:37,263 - Actual digit: six
+2025-05-29 18:04:37,263 - 
+Test 4/5
+2025-05-29 18:04:37,290 - Recognized as: None
+2025-05-29 18:04:37,290 - Actual digit: six
+2025-05-29 18:04:37,290 - 
+Test 5/5
+2025-05-29 18:04:37,339 - Recognized as: three
+2025-05-29 18:04:37,339 - Actual digit: six
+2025-05-29 18:04:37,339 - 
+Testing digit 'seven'
+2025-05-29 18:04:37,339 - 
+Test 1/5
+2025-05-29 18:04:37,384 - Recognized as: five
+2025-05-29 18:04:37,384 - Actual digit: seven
+2025-05-29 18:04:37,384 - 
+Test 2/5
+2025-05-29 18:04:37,429 - Recognized as: two
+2025-05-29 18:04:37,429 - Actual digit: seven
+2025-05-29 18:04:37,429 - 
+Test 3/5
+2025-05-29 18:04:37,476 - Recognized as: nine
+2025-05-29 18:04:37,476 - Actual digit: seven
+2025-05-29 18:04:37,476 - 
+Test 4/5
+2025-05-29 18:04:37,526 - Recognized as: nine
+2025-05-29 18:04:37,526 - Actual digit: seven
+2025-05-29 18:04:37,526 - 
+Test 5/5
+2025-05-29 18:04:37,571 - Recognized as: five
+2025-05-29 18:04:37,571 - Actual digit: seven
+2025-05-29 18:04:37,571 - 
+Testing digit 'eight'
+2025-05-29 18:04:37,571 - 
+Test 1/5
+2025-05-29 18:04:37,618 - Recognized as: six
+2025-05-29 18:04:37,618 - Actual digit: eight
+2025-05-29 18:04:37,618 - 
+Test 2/5
+2025-05-29 18:04:37,663 - Recognized as: five
+2025-05-29 18:04:37,663 - Actual digit: eight
+2025-05-29 18:04:37,664 - 
+Test 3/5
+2025-05-29 18:04:37,713 - Recognized as: None
+2025-05-29 18:04:37,714 - Actual digit: eight
+2025-05-29 18:04:37,714 - 
+Test 4/5
+2025-05-29 18:04:37,762 - Recognized as: None
+2025-05-29 18:04:37,762 - Actual digit: eight
+2025-05-29 18:04:37,763 - 
+Test 5/5
+2025-05-29 18:04:37,811 - Recognized as: None
+2025-05-29 18:04:37,812 - Actual digit: eight
+2025-05-29 18:04:37,812 - 
+Testing digit 'nine'
+2025-05-29 18:04:37,812 - 
+Test 1/5
+2025-05-29 18:04:37,861 - Recognized as: None
+2025-05-29 18:04:37,861 - Actual digit: nine
+2025-05-29 18:04:37,861 - 
+Test 2/5
+2025-05-29 18:04:37,910 - Recognized as: nine
+2025-05-29 18:04:37,910 - Actual digit: nine
+2025-05-29 18:04:37,910 - 
+Test 3/5
+2025-05-29 18:04:37,957 - Recognized as: four
+2025-05-29 18:04:37,957 - Actual digit: nine
+2025-05-29 18:04:37,957 - 
+Test 4/5
+2025-05-29 18:04:38,007 - Recognized as: one
+2025-05-29 18:04:38,007 - Actual digit: nine
+2025-05-29 18:04:38,007 - 
+Test 5/5
+2025-05-29 18:04:38,058 - Recognized as: nine
+2025-05-29 18:04:38,058 - Actual digit: nine
+2025-05-29 18:04:38,058 - 
+Overall accuracy: 14.00%
+2025-05-29 18:04:38,058 - 
+Testing with band ratio: 0.35
+2025-05-29 18:04:38,058 - 
+=== Testing Recognition ===
+2025-05-29 18:04:38,059 - 
+Testing digit 'zero'
+2025-05-29 18:04:38,059 - 
+Test 1/5
+2025-05-29 18:04:38,108 - Recognized as: None
+2025-05-29 18:04:38,108 - Actual digit: zero
+2025-05-29 18:04:38,108 - 
+Test 2/5
+2025-05-29 18:04:38,159 - Recognized as: None
+2025-05-29 18:04:38,160 - Actual digit: zero
+2025-05-29 18:04:38,160 - 
+Test 3/5
+2025-05-29 18:04:38,207 - Recognized as: None
+2025-05-29 18:04:38,207 - Actual digit: zero
+2025-05-29 18:04:38,208 - 
+Test 4/5
+2025-05-29 18:04:38,258 - Recognized as: None
+2025-05-29 18:04:38,259 - Actual digit: zero
+2025-05-29 18:04:38,259 - 
+Test 5/5
+2025-05-29 18:04:38,309 - Recognized as: None
+2025-05-29 18:04:38,309 - Actual digit: zero
+2025-05-29 18:04:38,309 - 
+Testing digit 'one'
+2025-05-29 18:04:38,309 - 
+Test 1/5
+2025-05-29 18:04:38,357 - Recognized as: nine
+2025-05-29 18:04:38,358 - Actual digit: one
+2025-05-29 18:04:38,358 - 
+Test 2/5
+2025-05-29 18:04:38,405 - Recognized as: seven
+2025-05-29 18:04:38,406 - Actual digit: one
+2025-05-29 18:04:38,406 - 
+Test 3/5
+2025-05-29 18:04:38,452 - Recognized as: seven
+2025-05-29 18:04:38,452 - Actual digit: one
+2025-05-29 18:04:38,453 - 
+Test 4/5
+2025-05-29 18:04:38,502 - Recognized as: seven
+2025-05-29 18:04:38,502 - Actual digit: one
+2025-05-29 18:04:38,502 - 
+Test 5/5
+2025-05-29 18:04:38,549 - Recognized as: seven
+2025-05-29 18:04:38,550 - Actual digit: one
+2025-05-29 18:04:38,550 - 
+Testing digit 'two'
+2025-05-29 18:04:38,550 - 
+Test 1/5
+2025-05-29 18:04:38,595 - Recognized as: five
+2025-05-29 18:04:38,595 - Actual digit: two
+2025-05-29 18:04:38,596 - 
+Test 2/5
+2025-05-29 18:04:38,643 - Recognized as: seven
+2025-05-29 18:04:38,644 - Actual digit: two
+2025-05-29 18:04:38,644 - 
+Test 3/5
+2025-05-29 18:04:38,692 - Recognized as: None
+2025-05-29 18:04:38,693 - Actual digit: two
+2025-05-29 18:04:38,693 - 
+Test 4/5
+2025-05-29 18:04:38,743 - Recognized as: None
+2025-05-29 18:04:38,743 - Actual digit: two
+2025-05-29 18:04:38,744 - 
+Test 5/5
+2025-05-29 18:04:38,793 - Recognized as: three
+2025-05-29 18:04:38,794 - Actual digit: two
+2025-05-29 18:04:38,794 - 
+Testing digit 'three'
+2025-05-29 18:04:38,794 - 
+Test 1/5
+2025-05-29 18:04:38,839 - Recognized as: two
+2025-05-29 18:04:38,840 - Actual digit: three
+2025-05-29 18:04:38,840 - 
+Test 2/5
+2025-05-29 18:04:38,865 - Recognized as: None
+2025-05-29 18:04:38,866 - Actual digit: three
+2025-05-29 18:04:38,866 - 
+Test 3/5
+2025-05-29 18:04:38,914 - Recognized as: two
+2025-05-29 18:04:38,914 - Actual digit: three
+2025-05-29 18:04:38,914 - 
+Test 4/5
+2025-05-29 18:04:38,959 - Recognized as: two
+2025-05-29 18:04:38,960 - Actual digit: three
+2025-05-29 18:04:38,960 - 
+Test 5/5
+2025-05-29 18:04:39,011 - Recognized as: two
+2025-05-29 18:04:39,011 - Actual digit: three
+2025-05-29 18:04:39,012 - 
+Testing digit 'four'
+2025-05-29 18:04:39,012 - 
+Test 1/5
+2025-05-29 18:04:39,057 - Recognized as: five
+2025-05-29 18:04:39,057 - Actual digit: four
+2025-05-29 18:04:39,057 - 
+Test 2/5
+2025-05-29 18:04:39,104 - Recognized as: four
+2025-05-29 18:04:39,104 - Actual digit: four
+2025-05-29 18:04:39,104 - 
+Test 3/5
+2025-05-29 18:04:39,152 - Recognized as: nine
+2025-05-29 18:04:39,152 - Actual digit: four
+2025-05-29 18:04:39,152 - 
+Test 4/5
+2025-05-29 18:04:39,197 - Recognized as: None
+2025-05-29 18:04:39,197 - Actual digit: four
+2025-05-29 18:04:39,197 - 
+Test 5/5
+2025-05-29 18:04:39,242 - Recognized as: two
+2025-05-29 18:04:39,242 - Actual digit: four
+2025-05-29 18:04:39,242 - 
+Testing digit 'five'
+2025-05-29 18:04:39,242 - 
+Test 1/5
+2025-05-29 18:04:39,286 - Recognized as: five
+2025-05-29 18:04:39,286 - Actual digit: five
+2025-05-29 18:04:39,286 - 
+Test 2/5
+2025-05-29 18:04:39,333 - Recognized as: five
+2025-05-29 18:04:39,333 - Actual digit: five
+2025-05-29 18:04:39,334 - 
+Test 3/5
+2025-05-29 18:04:39,379 - Recognized as: five
+2025-05-29 18:04:39,379 - Actual digit: five
+2025-05-29 18:04:39,379 - 
+Test 4/5
+2025-05-29 18:04:39,423 - Recognized as: None
+2025-05-29 18:04:39,423 - Actual digit: five
+2025-05-29 18:04:39,423 - 
+Test 5/5
+2025-05-29 18:04:39,469 - Recognized as: five
+2025-05-29 18:04:39,469 - Actual digit: five
+2025-05-29 18:04:39,469 - 
+Testing digit 'six'
+2025-05-29 18:04:39,469 - 
+Test 1/5
+2025-05-29 18:04:39,496 - Recognized as: None
+2025-05-29 18:04:39,496 - Actual digit: six
+2025-05-29 18:04:39,496 - 
+Test 2/5
+2025-05-29 18:04:39,543 - Recognized as: two
+2025-05-29 18:04:39,543 - Actual digit: six
+2025-05-29 18:04:39,544 - 
+Test 3/5
+2025-05-29 18:04:39,589 - Recognized as: two
+2025-05-29 18:04:39,589 - Actual digit: six
+2025-05-29 18:04:39,589 - 
+Test 4/5
+2025-05-29 18:04:39,615 - Recognized as: None
+2025-05-29 18:04:39,615 - Actual digit: six
+2025-05-29 18:04:39,615 - 
+Test 5/5
+2025-05-29 18:04:39,664 - Recognized as: three
+2025-05-29 18:04:39,664 - Actual digit: six
+2025-05-29 18:04:39,664 - 
+Testing digit 'seven'
+2025-05-29 18:04:39,665 - 
+Test 1/5
+2025-05-29 18:04:39,711 - Recognized as: five
+2025-05-29 18:04:39,711 - Actual digit: seven
+2025-05-29 18:04:39,711 - 
+Test 2/5
+2025-05-29 18:04:39,761 - Recognized as: two
+2025-05-29 18:04:39,761 - Actual digit: seven
+2025-05-29 18:04:39,761 - 
+Test 3/5
+2025-05-29 18:04:39,808 - Recognized as: nine
+2025-05-29 18:04:39,808 - Actual digit: seven
+2025-05-29 18:04:39,809 - 
+Test 4/5
+2025-05-29 18:04:39,855 - Recognized as: nine
+2025-05-29 18:04:39,856 - Actual digit: seven
+2025-05-29 18:04:39,856 - 
+Test 5/5
+2025-05-29 18:04:39,902 - Recognized as: five
+2025-05-29 18:04:39,902 - Actual digit: seven
+2025-05-29 18:04:39,902 - 
+Testing digit 'eight'
+2025-05-29 18:04:39,902 - 
+Test 1/5
+2025-05-29 18:04:39,949 - Recognized as: six
+2025-05-29 18:04:39,950 - Actual digit: eight
+2025-05-29 18:04:39,950 - 
+Test 2/5
+2025-05-29 18:04:39,996 - Recognized as: five
+2025-05-29 18:04:39,997 - Actual digit: eight
+2025-05-29 18:04:39,997 - 
+Test 3/5
+2025-05-29 18:04:40,044 - Recognized as: None
+2025-05-29 18:04:40,045 - Actual digit: eight
+2025-05-29 18:04:40,045 - 
+Test 4/5
+2025-05-29 18:04:40,094 - Recognized as: None
+2025-05-29 18:04:40,095 - Actual digit: eight
+2025-05-29 18:04:40,095 - 
+Test 5/5
+2025-05-29 18:04:40,147 - Recognized as: None
+2025-05-29 18:04:40,147 - Actual digit: eight
+2025-05-29 18:04:40,148 - 
+Testing digit 'nine'
+2025-05-29 18:04:40,148 - 
+Test 1/5
+2025-05-29 18:04:40,197 - Recognized as: None
+2025-05-29 18:04:40,198 - Actual digit: nine
+2025-05-29 18:04:40,198 - 
+Test 2/5
+2025-05-29 18:04:40,244 - Recognized as: nine
+2025-05-29 18:04:40,245 - Actual digit: nine
+2025-05-29 18:04:40,245 - 
+Test 3/5
+2025-05-29 18:04:40,290 - Recognized as: four
+2025-05-29 18:04:40,291 - Actual digit: nine
+2025-05-29 18:04:40,292 - 
+Test 4/5
+2025-05-29 18:04:40,337 - Recognized as: one
+2025-05-29 18:04:40,337 - Actual digit: nine
+2025-05-29 18:04:40,337 - 
+Test 5/5
+2025-05-29 18:04:40,385 - Recognized as: nine
+2025-05-29 18:04:40,385 - Actual digit: nine
+2025-05-29 18:04:40,385 - 
+Overall accuracy: 14.00%
+2025-05-29 18:04:40,386 - 
+Testing with band ratio: 0.4
+2025-05-29 18:04:40,386 - 
+=== Testing Recognition ===
+2025-05-29 18:04:40,386 - 
+Testing digit 'zero'
+2025-05-29 18:04:40,387 - 
+Test 1/5
+2025-05-29 18:04:40,433 - Recognized as: None
+2025-05-29 18:04:40,433 - Actual digit: zero
+2025-05-29 18:04:40,433 - 
+Test 2/5
+2025-05-29 18:04:40,480 - Recognized as: None
+2025-05-29 18:04:40,480 - Actual digit: zero
+2025-05-29 18:04:40,480 - 
+Test 3/5
+2025-05-29 18:04:40,528 - Recognized as: None
+2025-05-29 18:04:40,528 - Actual digit: zero
+2025-05-29 18:04:40,528 - 
+Test 4/5
+2025-05-29 18:04:40,575 - Recognized as: None
+2025-05-29 18:04:40,576 - Actual digit: zero
+2025-05-29 18:04:40,576 - 
+Test 5/5
+2025-05-29 18:04:40,627 - Recognized as: None
+2025-05-29 18:04:40,627 - Actual digit: zero
+2025-05-29 18:04:40,627 - 
+Testing digit 'one'
+2025-05-29 18:04:40,627 - 
+Test 1/5
+2025-05-29 18:04:40,672 - Recognized as: nine
+2025-05-29 18:04:40,673 - Actual digit: one
+2025-05-29 18:04:40,673 - 
+Test 2/5
+2025-05-29 18:04:40,722 - Recognized as: seven
+2025-05-29 18:04:40,722 - Actual digit: one
+2025-05-29 18:04:40,722 - 
+Test 3/5
+2025-05-29 18:04:40,768 - Recognized as: seven
+2025-05-29 18:04:40,768 - Actual digit: one
+2025-05-29 18:04:40,768 - 
+Test 4/5
+2025-05-29 18:04:40,815 - Recognized as: seven
+2025-05-29 18:04:40,815 - Actual digit: one
+2025-05-29 18:04:40,815 - 
+Test 5/5
+2025-05-29 18:04:40,861 - Recognized as: seven
+2025-05-29 18:04:40,862 - Actual digit: one
+2025-05-29 18:04:40,862 - 
+Testing digit 'two'
+2025-05-29 18:04:40,862 - 
+Test 1/5
+2025-05-29 18:04:40,908 - Recognized as: five
+2025-05-29 18:04:40,908 - Actual digit: two
+2025-05-29 18:04:40,909 - 
+Test 2/5
+2025-05-29 18:04:40,956 - Recognized as: seven
+2025-05-29 18:04:40,956 - Actual digit: two
+2025-05-29 18:04:40,957 - 
+Test 3/5
+2025-05-29 18:04:41,006 - Recognized as: None
+2025-05-29 18:04:41,007 - Actual digit: two
+2025-05-29 18:04:41,007 - 
+Test 4/5
+2025-05-29 18:04:41,054 - Recognized as: None
+2025-05-29 18:04:41,054 - Actual digit: two
+2025-05-29 18:04:41,054 - 
+Test 5/5
+2025-05-29 18:04:41,104 - Recognized as: three
+2025-05-29 18:04:41,104 - Actual digit: two
+2025-05-29 18:04:41,104 - 
+Testing digit 'three'
+2025-05-29 18:04:41,105 - 
+Test 1/5
+2025-05-29 18:04:41,148 - Recognized as: two
+2025-05-29 18:04:41,149 - Actual digit: three
+2025-05-29 18:04:41,149 - 
+Test 2/5
+2025-05-29 18:04:41,176 - Recognized as: None
+2025-05-29 18:04:41,177 - Actual digit: three
+2025-05-29 18:04:41,177 - 
+Test 3/5
+2025-05-29 18:04:41,223 - Recognized as: two
+2025-05-29 18:04:41,224 - Actual digit: three
+2025-05-29 18:04:41,224 - 
+Test 4/5
+2025-05-29 18:04:41,270 - Recognized as: two
+2025-05-29 18:04:41,271 - Actual digit: three
+2025-05-29 18:04:41,271 - 
+Test 5/5
+2025-05-29 18:04:41,316 - Recognized as: two
+2025-05-29 18:04:41,316 - Actual digit: three
+2025-05-29 18:04:41,317 - 
+Testing digit 'four'
+2025-05-29 18:04:41,317 - 
+Test 1/5
+2025-05-29 18:04:41,361 - Recognized as: five
+2025-05-29 18:04:41,362 - Actual digit: four
+2025-05-29 18:04:41,362 - 
+Test 2/5
+2025-05-29 18:04:41,408 - Recognized as: four
+2025-05-29 18:04:41,408 - Actual digit: four
+2025-05-29 18:04:41,408 - 
+Test 3/5
+2025-05-29 18:04:41,454 - Recognized as: nine
+2025-05-29 18:04:41,454 - Actual digit: four
+2025-05-29 18:04:41,455 - 
+Test 4/5
+2025-05-29 18:04:41,498 - Recognized as: None
+2025-05-29 18:04:41,498 - Actual digit: four
+2025-05-29 18:04:41,498 - 
+Test 5/5
+2025-05-29 18:04:41,543 - Recognized as: two
+2025-05-29 18:04:41,543 - Actual digit: four
+2025-05-29 18:04:41,544 - 
+Testing digit 'five'
+2025-05-29 18:04:41,544 - 
+Test 1/5
+2025-05-29 18:04:41,589 - Recognized as: five
+2025-05-29 18:04:41,590 - Actual digit: five
+2025-05-29 18:04:41,590 - 
+Test 2/5
+2025-05-29 18:04:41,633 - Recognized as: five
+2025-05-29 18:04:41,634 - Actual digit: five
+2025-05-29 18:04:41,634 - 
+Test 3/5
+2025-05-29 18:04:41,679 - Recognized as: five
+2025-05-29 18:04:41,680 - Actual digit: five
+2025-05-29 18:04:41,680 - 
+Test 4/5
+2025-05-29 18:04:41,724 - Recognized as: None
+2025-05-29 18:04:41,724 - Actual digit: five
+2025-05-29 18:04:41,724 - 
+Test 5/5
+2025-05-29 18:04:41,768 - Recognized as: five
+2025-05-29 18:04:41,768 - Actual digit: five
+2025-05-29 18:04:41,769 - 
+Testing digit 'six'
+2025-05-29 18:04:41,769 - 
+Test 1/5
+2025-05-29 18:04:41,795 - Recognized as: None
+2025-05-29 18:04:41,795 - Actual digit: six
+2025-05-29 18:04:41,796 - 
+Test 2/5
+2025-05-29 18:04:41,841 - Recognized as: two
+2025-05-29 18:04:41,841 - Actual digit: six
+2025-05-29 18:04:41,842 - 
+Test 3/5
+2025-05-29 18:04:41,888 - Recognized as: two
+2025-05-29 18:04:41,889 - Actual digit: six
+2025-05-29 18:04:41,889 - 
+Test 4/5
+2025-05-29 18:04:41,914 - Recognized as: None
+2025-05-29 18:04:41,915 - Actual digit: six
+2025-05-29 18:04:41,915 - 
+Test 5/5
+2025-05-29 18:04:41,962 - Recognized as: three
+2025-05-29 18:04:41,962 - Actual digit: six
+2025-05-29 18:04:41,962 - 
+Testing digit 'seven'
+2025-05-29 18:04:41,963 - 
+Test 1/5
+2025-05-29 18:04:42,008 - Recognized as: five
+2025-05-29 18:04:42,008 - Actual digit: seven
+2025-05-29 18:04:42,010 - 
+Test 2/5
+2025-05-29 18:04:42,058 - Recognized as: two
+2025-05-29 18:04:42,058 - Actual digit: seven
+2025-05-29 18:04:42,058 - 
+Test 3/5
+2025-05-29 18:04:42,107 - Recognized as: nine
+2025-05-29 18:04:42,108 - Actual digit: seven
+2025-05-29 18:04:42,108 - 
+Test 4/5
+2025-05-29 18:04:42,161 - Recognized as: nine
+2025-05-29 18:04:42,161 - Actual digit: seven
+2025-05-29 18:04:42,162 - 
+Test 5/5
+2025-05-29 18:04:42,209 - Recognized as: five
+2025-05-29 18:04:42,209 - Actual digit: seven
+2025-05-29 18:04:42,209 - 
+Testing digit 'eight'
+2025-05-29 18:04:42,210 - 
+Test 1/5
+2025-05-29 18:04:42,260 - Recognized as: six
+2025-05-29 18:04:42,261 - Actual digit: eight
+2025-05-29 18:04:42,261 - 
+Test 2/5
+2025-05-29 18:04:42,306 - Recognized as: five
+2025-05-29 18:04:42,306 - Actual digit: eight
+2025-05-29 18:04:42,306 - 
+Test 3/5
+2025-05-29 18:04:42,354 - Recognized as: None
+2025-05-29 18:04:42,355 - Actual digit: eight
+2025-05-29 18:04:42,355 - 
+Test 4/5
+2025-05-29 18:04:42,404 - Recognized as: None
+2025-05-29 18:04:42,405 - Actual digit: eight
+2025-05-29 18:04:42,405 - 
+Test 5/5
+2025-05-29 18:04:42,454 - Recognized as: None
+2025-05-29 18:04:42,454 - Actual digit: eight
+2025-05-29 18:04:42,456 - 
+Testing digit 'nine'
+2025-05-29 18:04:42,457 - 
+Test 1/5
+2025-05-29 18:04:42,506 - Recognized as: None
+2025-05-29 18:04:42,506 - Actual digit: nine
+2025-05-29 18:04:42,506 - 
+Test 2/5
+2025-05-29 18:04:42,554 - Recognized as: nine
+2025-05-29 18:04:42,555 - Actual digit: nine
+2025-05-29 18:04:42,555 - 
+Test 3/5
+2025-05-29 18:04:42,601 - Recognized as: four
+2025-05-29 18:04:42,601 - Actual digit: nine
+2025-05-29 18:04:42,601 - 
+Test 4/5
+2025-05-29 18:04:42,649 - Recognized as: one
+2025-05-29 18:04:42,650 - Actual digit: nine
+2025-05-29 18:04:42,650 - 
+Test 5/5
+2025-05-29 18:04:42,699 - Recognized as: nine
+2025-05-29 18:04:42,699 - Actual digit: nine
+2025-05-29 18:04:42,699 - 
+Overall accuracy: 14.00%
+2025-05-29 18:04:43,073 - 
+=== Testing with Different Numbers of Templates ===
+2025-05-29 18:04:43,073 - 
+Testing with 1 template(s)...
+2025-05-29 18:04:43,074 - 
+=== Testing Recognition ===
+2025-05-29 18:04:43,074 - 
+Testing digit 'zero'
+2025-05-29 18:04:43,074 - 
+Test 1/5
+2025-05-29 18:04:43,122 - Recognized as: None
+2025-05-29 18:04:43,122 - Actual digit: zero
+2025-05-29 18:04:43,122 - 
+Test 2/5
+2025-05-29 18:04:43,171 - Recognized as: None
+2025-05-29 18:04:43,172 - Actual digit: zero
+2025-05-29 18:04:43,172 - 
+Test 3/5
+2025-05-29 18:04:43,218 - Recognized as: None
+2025-05-29 18:04:43,219 - Actual digit: zero
+2025-05-29 18:04:43,219 - 
+Test 4/5
+2025-05-29 18:04:43,267 - Recognized as: None
+2025-05-29 18:04:43,267 - Actual digit: zero
+2025-05-29 18:04:43,268 - 
+Test 5/5
+2025-05-29 18:04:43,317 - Recognized as: None
+2025-05-29 18:04:43,317 - Actual digit: zero
+2025-05-29 18:04:43,317 - 
+Testing digit 'one'
+2025-05-29 18:04:43,320 - 
+Test 1/5
+2025-05-29 18:04:43,368 - Recognized as: nine
+2025-05-29 18:04:43,368 - Actual digit: one
+2025-05-29 18:04:43,368 - 
+Test 2/5
+2025-05-29 18:04:43,415 - Recognized as: seven
+2025-05-29 18:04:43,415 - Actual digit: one
+2025-05-29 18:04:43,416 - 
+Test 3/5
+2025-05-29 18:04:43,464 - Recognized as: seven
+2025-05-29 18:04:43,464 - Actual digit: one
+2025-05-29 18:04:43,464 - 
+Test 4/5
+2025-05-29 18:04:43,516 - Recognized as: seven
+2025-05-29 18:04:43,516 - Actual digit: one
+2025-05-29 18:04:43,516 - 
+Test 5/5
+2025-05-29 18:04:43,564 - Recognized as: seven
+2025-05-29 18:04:43,564 - Actual digit: one
+2025-05-29 18:04:43,564 - 
+Testing digit 'two'
+2025-05-29 18:04:43,564 - 
+Test 1/5
+2025-05-29 18:04:43,609 - Recognized as: five
+2025-05-29 18:04:43,609 - Actual digit: two
+2025-05-29 18:04:43,609 - 
+Test 2/5
+2025-05-29 18:04:43,658 - Recognized as: seven
+2025-05-29 18:04:43,658 - Actual digit: two
+2025-05-29 18:04:43,658 - 
+Test 3/5
+2025-05-29 18:04:43,707 - Recognized as: None
+2025-05-29 18:04:43,707 - Actual digit: two
+2025-05-29 18:04:43,707 - 
+Test 4/5
+2025-05-29 18:04:43,758 - Recognized as: None
+2025-05-29 18:04:43,758 - Actual digit: two
+2025-05-29 18:04:43,758 - 
+Test 5/5
+2025-05-29 18:04:43,807 - Recognized as: three
+2025-05-29 18:04:43,807 - Actual digit: two
+2025-05-29 18:04:43,807 - 
+Testing digit 'three'
+2025-05-29 18:04:43,808 - 
+Test 1/5
+2025-05-29 18:04:43,855 - Recognized as: two
+2025-05-29 18:04:43,855 - Actual digit: three
+2025-05-29 18:04:43,855 - 
+Test 2/5
+2025-05-29 18:04:43,880 - Recognized as: None
+2025-05-29 18:04:43,880 - Actual digit: three
+2025-05-29 18:04:43,880 - 
+Test 3/5
+2025-05-29 18:04:43,927 - Recognized as: two
+2025-05-29 18:04:43,928 - Actual digit: three
+2025-05-29 18:04:43,928 - 
+Test 4/5
+2025-05-29 18:04:43,974 - Recognized as: two
+2025-05-29 18:04:43,974 - Actual digit: three
+2025-05-29 18:04:43,974 - 
+Test 5/5
+2025-05-29 18:04:44,021 - Recognized as: two
+2025-05-29 18:04:44,021 - Actual digit: three
+2025-05-29 18:04:44,021 - 
+Testing digit 'four'
+2025-05-29 18:04:44,021 - 
+Test 1/5
+2025-05-29 18:04:44,070 - Recognized as: five
+2025-05-29 18:04:44,071 - Actual digit: four
+2025-05-29 18:04:44,071 - 
+Test 2/5
+2025-05-29 18:04:44,117 - Recognized as: four
+2025-05-29 18:04:44,117 - Actual digit: four
+2025-05-29 18:04:44,117 - 
+Test 3/5
+2025-05-29 18:04:44,165 - Recognized as: nine
+2025-05-29 18:04:44,165 - Actual digit: four
+2025-05-29 18:04:44,165 - 
+Test 4/5
+2025-05-29 18:04:44,209 - Recognized as: None
+2025-05-29 18:04:44,210 - Actual digit: four
+2025-05-29 18:04:44,210 - 
+Test 5/5
+2025-05-29 18:04:44,260 - Recognized as: two
+2025-05-29 18:04:44,260 - Actual digit: four
+2025-05-29 18:04:44,260 - 
+Testing digit 'five'
+2025-05-29 18:04:44,261 - 
+Test 1/5
+2025-05-29 18:04:44,315 - Recognized as: five
+2025-05-29 18:04:44,315 - Actual digit: five
+2025-05-29 18:04:44,315 - 
+Test 2/5
+2025-05-29 18:04:44,361 - Recognized as: five
+2025-05-29 18:04:44,361 - Actual digit: five
+2025-05-29 18:04:44,362 - 
+Test 3/5
+2025-05-29 18:04:44,406 - Recognized as: five
+2025-05-29 18:04:44,407 - Actual digit: five
+2025-05-29 18:04:44,407 - 
+Test 4/5
+2025-05-29 18:04:44,450 - Recognized as: None
+2025-05-29 18:04:44,451 - Actual digit: five
+2025-05-29 18:04:44,451 - 
+Test 5/5
+2025-05-29 18:04:44,497 - Recognized as: five
+2025-05-29 18:04:44,497 - Actual digit: five
+2025-05-29 18:04:44,498 - 
+Testing digit 'six'
+2025-05-29 18:04:44,498 - 
+Test 1/5
+2025-05-29 18:04:44,523 - Recognized as: None
+2025-05-29 18:04:44,523 - Actual digit: six
+2025-05-29 18:04:44,524 - 
+Test 2/5
+2025-05-29 18:04:44,570 - Recognized as: two
+2025-05-29 18:04:44,570 - Actual digit: six
+2025-05-29 18:04:44,570 - 
+Test 3/5
+2025-05-29 18:04:44,617 - Recognized as: two
+2025-05-29 18:04:44,617 - Actual digit: six
+2025-05-29 18:04:44,618 - 
+Test 4/5
+2025-05-29 18:04:44,646 - Recognized as: None
+2025-05-29 18:04:44,646 - Actual digit: six
+2025-05-29 18:04:44,646 - 
+Test 5/5
+2025-05-29 18:04:44,694 - Recognized as: three
+2025-05-29 18:04:44,694 - Actual digit: six
+2025-05-29 18:04:44,694 - 
+Testing digit 'seven'
+2025-05-29 18:04:44,694 - 
+Test 1/5
+2025-05-29 18:04:44,740 - Recognized as: five
+2025-05-29 18:04:44,740 - Actual digit: seven
+2025-05-29 18:04:44,740 - 
+Test 2/5
+2025-05-29 18:04:44,787 - Recognized as: two
+2025-05-29 18:04:44,787 - Actual digit: seven
+2025-05-29 18:04:44,787 - 
+Test 3/5
+2025-05-29 18:04:44,835 - Recognized as: nine
+2025-05-29 18:04:44,835 - Actual digit: seven
+2025-05-29 18:04:44,835 - 
+Test 4/5
+2025-05-29 18:04:44,884 - Recognized as: nine
+2025-05-29 18:04:44,884 - Actual digit: seven
+2025-05-29 18:04:44,885 - 
+Test 5/5
+2025-05-29 18:04:44,931 - Recognized as: five
+2025-05-29 18:04:44,931 - Actual digit: seven
+2025-05-29 18:04:44,931 - 
+Testing digit 'eight'
+2025-05-29 18:04:44,931 - 
+Test 1/5
+2025-05-29 18:04:44,982 - Recognized as: six
+2025-05-29 18:04:44,982 - Actual digit: eight
+2025-05-29 18:04:44,983 - 
+Test 2/5
+2025-05-29 18:04:45,029 - Recognized as: five
+2025-05-29 18:04:45,030 - Actual digit: eight
+2025-05-29 18:04:45,030 - 
+Test 3/5
+2025-05-29 18:04:45,078 - Recognized as: None
+2025-05-29 18:04:45,079 - Actual digit: eight
+2025-05-29 18:04:45,079 - 
+Test 4/5
+2025-05-29 18:04:45,128 - Recognized as: None
+2025-05-29 18:04:45,128 - Actual digit: eight
+2025-05-29 18:04:45,128 - 
+Test 5/5
+2025-05-29 18:04:45,180 - Recognized as: None
+2025-05-29 18:04:45,180 - Actual digit: eight
+2025-05-29 18:04:45,180 - 
+Testing digit 'nine'
+2025-05-29 18:04:45,180 - 
+Test 1/5
+2025-05-29 18:04:45,231 - Recognized as: None
+2025-05-29 18:04:45,231 - Actual digit: nine
+2025-05-29 18:04:45,231 - 
+Test 2/5
+2025-05-29 18:04:45,280 - Recognized as: nine
+2025-05-29 18:04:45,280 - Actual digit: nine
+2025-05-29 18:04:45,280 - 
+Test 3/5
+2025-05-29 18:04:45,328 - Recognized as: four
+2025-05-29 18:04:45,328 - Actual digit: nine
+2025-05-29 18:04:45,328 - 
+Test 4/5
+2025-05-29 18:04:45,375 - Recognized as: one
+2025-05-29 18:04:45,376 - Actual digit: nine
+2025-05-29 18:04:45,376 - 
+Test 5/5
+2025-05-29 18:04:45,424 - Recognized as: nine
+2025-05-29 18:04:45,424 - Actual digit: nine
+2025-05-29 18:04:45,424 - 
+Overall accuracy: 14.00%
+2025-05-29 18:04:45,424 - 
+Testing with 2 template(s)...
+2025-05-29 18:04:45,425 - 
+=== Testing Recognition ===
+2025-05-29 18:04:45,425 - 
+Testing digit 'zero'
+2025-05-29 18:04:45,425 - 
+Test 1/5
+2025-05-29 18:04:45,517 - Recognized as: zero
+2025-05-29 18:04:45,518 - Actual digit: zero
+2025-05-29 18:04:45,518 - 
+Test 2/5
+2025-05-29 18:04:45,611 - Recognized as: nine
+2025-05-29 18:04:45,611 - Actual digit: zero
+2025-05-29 18:04:45,611 - 
+Test 3/5
+2025-05-29 18:04:45,701 - Recognized as: nine
+2025-05-29 18:04:45,701 - Actual digit: zero
+2025-05-29 18:04:45,702 - 
+Test 4/5
+2025-05-29 18:04:45,812 - Recognized as: nine
+2025-05-29 18:04:45,812 - Actual digit: zero
+2025-05-29 18:04:45,814 - 
+Test 5/5
+2025-05-29 18:04:45,907 - Recognized as: None
+2025-05-29 18:04:45,907 - Actual digit: zero
+2025-05-29 18:04:45,908 - 
+Testing digit 'one'
+2025-05-29 18:04:45,909 - 
+Test 1/5
+2025-05-29 18:04:46,000 - Recognized as: one
+2025-05-29 18:04:46,001 - Actual digit: one
+2025-05-29 18:04:46,001 - 
+Test 2/5
+2025-05-29 18:04:46,090 - Recognized as: seven
+2025-05-29 18:04:46,090 - Actual digit: one
+2025-05-29 18:04:46,090 - 
+Test 3/5
+2025-05-29 18:04:46,185 - Recognized as: seven
+2025-05-29 18:04:46,185 - Actual digit: one
+2025-05-29 18:04:46,185 - 
+Test 4/5
+2025-05-29 18:04:46,277 - Recognized as: seven
+2025-05-29 18:04:46,277 - Actual digit: one
+2025-05-29 18:04:46,277 - 
+Test 5/5
+2025-05-29 18:04:46,366 - Recognized as: seven
+2025-05-29 18:04:46,367 - Actual digit: one
+2025-05-29 18:04:46,367 - 
+Testing digit 'two'
+2025-05-29 18:04:46,367 - 
+Test 1/5
+2025-05-29 18:04:46,457 - Recognized as: two
+2025-05-29 18:04:46,457 - Actual digit: two
+2025-05-29 18:04:46,457 - 
+Test 2/5
+2025-05-29 18:04:46,548 - Recognized as: seven
+2025-05-29 18:04:46,549 - Actual digit: two
+2025-05-29 18:04:46,549 - 
+Test 3/5
+2025-05-29 18:04:46,640 - Recognized as: nine
+2025-05-29 18:04:46,641 - Actual digit: two
+2025-05-29 18:04:46,641 - 
+Test 4/5
+2025-05-29 18:04:46,733 - Recognized as: nine
+2025-05-29 18:04:46,735 - Actual digit: two
+2025-05-29 18:04:46,736 - 
+Test 5/5
+2025-05-29 18:04:46,825 - Recognized as: three
+2025-05-29 18:04:46,825 - Actual digit: two
+2025-05-29 18:04:46,825 - 
+Testing digit 'three'
+2025-05-29 18:04:46,826 - 
+Test 1/5
+2025-05-29 18:04:46,928 - Recognized as: three
+2025-05-29 18:04:46,929 - Actual digit: three
+2025-05-29 18:04:46,929 - 
+Test 2/5
+2025-05-29 18:04:46,986 - Recognized as: six
+2025-05-29 18:04:46,987 - Actual digit: three
+2025-05-29 18:04:46,987 - 
+Test 3/5
+2025-05-29 18:04:47,088 - Recognized as: three
+2025-05-29 18:04:47,088 - Actual digit: three
+2025-05-29 18:04:47,088 - 
+Test 4/5
+2025-05-29 18:04:47,182 - Recognized as: three
+2025-05-29 18:04:47,182 - Actual digit: three
+2025-05-29 18:04:47,183 - 
+Test 5/5
+2025-05-29 18:04:47,269 - Recognized as: three
+2025-05-29 18:04:47,270 - Actual digit: three
+2025-05-29 18:04:47,270 - 
+Testing digit 'four'
+2025-05-29 18:04:47,271 - 
+Test 1/5
+2025-05-29 18:04:47,356 - Recognized as: four
+2025-05-29 18:04:47,357 - Actual digit: four
+2025-05-29 18:04:47,357 - 
+Test 2/5
+2025-05-29 18:04:47,446 - Recognized as: four
+2025-05-29 18:04:47,446 - Actual digit: four
+2025-05-29 18:04:47,446 - 
+Test 3/5
+2025-05-29 18:04:47,538 - Recognized as: one
+2025-05-29 18:04:47,539 - Actual digit: four
+2025-05-29 18:04:47,539 - 
+Test 4/5
+2025-05-29 18:04:47,625 - Recognized as: None
+2025-05-29 18:04:47,625 - Actual digit: four
+2025-05-29 18:04:47,625 - 
+Test 5/5
+2025-05-29 18:04:47,712 - Recognized as: three
+2025-05-29 18:04:47,713 - Actual digit: four
+2025-05-29 18:04:47,713 - 
+Testing digit 'five'
+2025-05-29 18:04:47,713 - 
+Test 1/5
+2025-05-29 18:04:47,803 - Recognized as: five
+2025-05-29 18:04:47,803 - Actual digit: five
+2025-05-29 18:04:47,803 - 
+Test 2/5
+2025-05-29 18:04:47,893 - Recognized as: five
+2025-05-29 18:04:47,893 - Actual digit: five
+2025-05-29 18:04:47,893 - 
+Test 3/5
+2025-05-29 18:04:47,981 - Recognized as: five
+2025-05-29 18:04:47,981 - Actual digit: five
+2025-05-29 18:04:47,982 - 
+Test 4/5
+2025-05-29 18:04:48,068 - Recognized as: None
+2025-05-29 18:04:48,068 - Actual digit: five
+2025-05-29 18:04:48,068 - 
+Test 5/5
+2025-05-29 18:04:48,157 - Recognized as: five
+2025-05-29 18:04:48,158 - Actual digit: five
+2025-05-29 18:04:48,158 - 
+Testing digit 'six'
+2025-05-29 18:04:48,158 - 
+Test 1/5
+2025-05-29 18:04:48,209 - Recognized as: six
+2025-05-29 18:04:48,209 - Actual digit: six
+2025-05-29 18:04:48,209 - 
+Test 2/5
+2025-05-29 18:04:48,296 - Recognized as: three
+2025-05-29 18:04:48,297 - Actual digit: six
+2025-05-29 18:04:48,297 - 
+Test 3/5
+2025-05-29 18:04:48,384 - Recognized as: three
+2025-05-29 18:04:48,384 - Actual digit: six
+2025-05-29 18:04:48,384 - 
+Test 4/5
+2025-05-29 18:04:48,436 - Recognized as: six
+2025-05-29 18:04:48,436 - Actual digit: six
+2025-05-29 18:04:48,436 - 
+Test 5/5
+2025-05-29 18:04:48,526 - Recognized as: three
+2025-05-29 18:04:48,526 - Actual digit: six
+2025-05-29 18:04:48,526 - 
+Testing digit 'seven'
+2025-05-29 18:04:48,526 - 
+Test 1/5
+2025-05-29 18:04:48,615 - Recognized as: seven
+2025-05-29 18:04:48,615 - Actual digit: seven
+2025-05-29 18:04:48,615 - 
+Test 2/5
+2025-05-29 18:04:48,704 - Recognized as: two
+2025-05-29 18:04:48,704 - Actual digit: seven
+2025-05-29 18:04:48,704 - 
+Test 3/5
+2025-05-29 18:04:48,791 - Recognized as: one
+2025-05-29 18:04:48,791 - Actual digit: seven
+2025-05-29 18:04:48,792 - 
+Test 4/5
+2025-05-29 18:04:48,884 - Recognized as: one
+2025-05-29 18:04:48,886 - Actual digit: seven
+2025-05-29 18:04:48,887 - 
+Test 5/5
+2025-05-29 18:04:48,975 - Recognized as: two
+2025-05-29 18:04:48,975 - Actual digit: seven
+2025-05-29 18:04:48,975 - 
+Testing digit 'eight'
+2025-05-29 18:04:48,975 - 
+Test 1/5
+2025-05-29 18:04:49,068 - Recognized as: eight
+2025-05-29 18:04:49,068 - Actual digit: eight
+2025-05-29 18:04:49,069 - 
+Test 2/5
+2025-05-29 18:04:49,159 - Recognized as: two
+2025-05-29 18:04:49,159 - Actual digit: eight
+2025-05-29 18:04:49,160 - 
+Test 3/5
+2025-05-29 18:04:49,253 - Recognized as: zero
+2025-05-29 18:04:49,253 - Actual digit: eight
+2025-05-29 18:04:49,253 - 
+Test 4/5
+2025-05-29 18:04:49,346 - Recognized as: None
+2025-05-29 18:04:49,346 - Actual digit: eight
+2025-05-29 18:04:49,346 - 
+Test 5/5
+2025-05-29 18:04:49,438 - Recognized as: None
+2025-05-29 18:04:49,438 - Actual digit: eight
+2025-05-29 18:04:49,439 - 
+Testing digit 'nine'
+2025-05-29 18:04:49,439 - 
+Test 1/5
+2025-05-29 18:04:49,555 - Recognized as: nine
+2025-05-29 18:04:49,555 - Actual digit: nine
+2025-05-29 18:04:49,557 - 
+Test 2/5
+2025-05-29 18:04:49,649 - Recognized as: nine
+2025-05-29 18:04:49,649 - Actual digit: nine
+2025-05-29 18:04:49,649 - 
+Test 3/5
+2025-05-29 18:04:49,737 - Recognized as: three
+2025-05-29 18:04:49,737 - Actual digit: nine
+2025-05-29 18:04:49,737 - 
+Test 4/5
+2025-05-29 18:04:49,830 - Recognized as: one
+2025-05-29 18:04:49,830 - Actual digit: nine
+2025-05-29 18:04:49,831 - 
+Test 5/5
+2025-05-29 18:04:49,920 - Recognized as: nine
+2025-05-29 18:04:49,920 - Actual digit: nine
+2025-05-29 18:04:49,920 - 
+Overall accuracy: 40.00%
+2025-05-29 18:04:49,921 - 
+Testing with 3 template(s)...
+2025-05-29 18:04:49,921 - 
+=== Testing Recognition ===
+2025-05-29 18:04:49,924 - 
+Testing digit 'zero'
+2025-05-29 18:04:49,924 - 
+Test 1/5
+2025-05-29 18:04:50,063 - Recognized as: zero
+2025-05-29 18:04:50,063 - Actual digit: zero
+2025-05-29 18:04:50,063 - 
+Test 2/5
+2025-05-29 18:04:50,200 - Recognized as: zero
+2025-05-29 18:04:50,200 - Actual digit: zero
+2025-05-29 18:04:50,200 - 
+Test 3/5
+2025-05-29 18:04:50,342 - Recognized as: nine
+2025-05-29 18:04:50,342 - Actual digit: zero
+2025-05-29 18:04:50,342 - 
+Test 4/5
+2025-05-29 18:04:50,477 - Recognized as: nine
+2025-05-29 18:04:50,477 - Actual digit: zero
+2025-05-29 18:04:50,477 - 
+Test 5/5
+2025-05-29 18:04:50,622 - Recognized as: None
+2025-05-29 18:04:50,623 - Actual digit: zero
+2025-05-29 18:04:50,623 - 
+Testing digit 'one'
+2025-05-29 18:04:50,624 - 
+Test 1/5
+2025-05-29 18:04:50,759 - Recognized as: one
+2025-05-29 18:04:50,759 - Actual digit: one
+2025-05-29 18:04:50,760 - 
+Test 2/5
+2025-05-29 18:04:50,895 - Recognized as: one
+2025-05-29 18:04:50,895 - Actual digit: one
+2025-05-29 18:04:50,895 - 
+Test 3/5
+2025-05-29 18:04:51,031 - Recognized as: one
+2025-05-29 18:04:51,032 - Actual digit: one
+2025-05-29 18:04:51,032 - 
+Test 4/5
+2025-05-29 18:04:51,168 - Recognized as: one
+2025-05-29 18:04:51,168 - Actual digit: one
+2025-05-29 18:04:51,168 - 
+Test 5/5
+2025-05-29 18:04:51,303 - Recognized as: one
+2025-05-29 18:04:51,303 - Actual digit: one
+2025-05-29 18:04:51,303 - 
+Testing digit 'two'
+2025-05-29 18:04:51,303 - 
+Test 1/5
+2025-05-29 18:04:51,429 - Recognized as: two
+2025-05-29 18:04:51,429 - Actual digit: two
+2025-05-29 18:04:51,431 - 
+Test 2/5
+2025-05-29 18:04:51,566 - Recognized as: two
+2025-05-29 18:04:51,566 - Actual digit: two
+2025-05-29 18:04:51,566 - 
+Test 3/5
+2025-05-29 18:04:51,707 - Recognized as: nine
+2025-05-29 18:04:51,708 - Actual digit: two
+2025-05-29 18:04:51,708 - 
+Test 4/5
+2025-05-29 18:04:51,841 - Recognized as: nine
+2025-05-29 18:04:51,841 - Actual digit: two
+2025-05-29 18:04:51,842 - 
+Test 5/5
+2025-05-29 18:04:51,974 - Recognized as: nine
+2025-05-29 18:04:51,974 - Actual digit: two
+2025-05-29 18:04:51,974 - 
+Testing digit 'three'
+2025-05-29 18:04:51,975 - 
+Test 1/5
+2025-05-29 18:04:52,106 - Recognized as: three
+2025-05-29 18:04:52,106 - Actual digit: three
+2025-05-29 18:04:52,106 - 
+Test 2/5
+2025-05-29 18:04:52,182 - Recognized as: three
+2025-05-29 18:04:52,183 - Actual digit: three
+2025-05-29 18:04:52,183 - 
+Test 3/5
+2025-05-29 18:04:52,322 - Recognized as: three
+2025-05-29 18:04:52,322 - Actual digit: three
+2025-05-29 18:04:52,322 - 
+Test 4/5
+2025-05-29 18:04:52,457 - Recognized as: three
+2025-05-29 18:04:52,458 - Actual digit: three
+2025-05-29 18:04:52,458 - 
+Test 5/5
+2025-05-29 18:04:52,592 - Recognized as: three
+2025-05-29 18:04:52,592 - Actual digit: three
+2025-05-29 18:04:52,592 - 
+Testing digit 'four'
+2025-05-29 18:04:52,592 - 
+Test 1/5
+2025-05-29 18:04:52,725 - Recognized as: four
+2025-05-29 18:04:52,725 - Actual digit: four
+2025-05-29 18:04:52,725 - 
+Test 2/5
+2025-05-29 18:04:52,858 - Recognized as: four
+2025-05-29 18:04:52,858 - Actual digit: four
+2025-05-29 18:04:52,858 - 
+Test 3/5
+2025-05-29 18:04:52,993 - Recognized as: one
+2025-05-29 18:04:52,993 - Actual digit: four
+2025-05-29 18:04:52,993 - 
+Test 4/5
+2025-05-29 18:04:53,118 - Recognized as: None
+2025-05-29 18:04:53,118 - Actual digit: four
+2025-05-29 18:04:53,118 - 
+Test 5/5
+2025-05-29 18:04:53,248 - Recognized as: four
+2025-05-29 18:04:53,248 - Actual digit: four
+2025-05-29 18:04:53,249 - 
+Testing digit 'five'
+2025-05-29 18:04:53,249 - 
+Test 1/5
+2025-05-29 18:04:53,376 - Recognized as: five
+2025-05-29 18:04:53,376 - Actual digit: five
+2025-05-29 18:04:53,377 - 
+Test 2/5
+2025-05-29 18:04:53,511 - Recognized as: five
+2025-05-29 18:04:53,511 - Actual digit: five
+2025-05-29 18:04:53,512 - 
+Test 3/5
+2025-05-29 18:04:53,641 - Recognized as: five
+2025-05-29 18:04:53,641 - Actual digit: five
+2025-05-29 18:04:53,641 - 
+Test 4/5
+2025-05-29 18:04:53,766 - Recognized as: None
+2025-05-29 18:04:53,766 - Actual digit: five
+2025-05-29 18:04:53,766 - 
+Test 5/5
+2025-05-29 18:04:53,896 - Recognized as: five
+2025-05-29 18:04:53,896 - Actual digit: five
+2025-05-29 18:04:53,897 - 
+Testing digit 'six'
+2025-05-29 18:04:53,897 - 
+Test 1/5
+2025-05-29 18:04:53,970 - Recognized as: six
+2025-05-29 18:04:53,970 - Actual digit: six
+2025-05-29 18:04:53,971 - 
+Test 2/5
+2025-05-29 18:04:54,102 - Recognized as: six
+2025-05-29 18:04:54,102 - Actual digit: six
+2025-05-29 18:04:54,102 - 
+Test 3/5
+2025-05-29 18:04:54,234 - Recognized as: six
+2025-05-29 18:04:54,234 - Actual digit: six
+2025-05-29 18:04:54,234 - 
+Test 4/5
+2025-05-29 18:04:54,307 - Recognized as: six
+2025-05-29 18:04:54,307 - Actual digit: six
+2025-05-29 18:04:54,308 - 
+Test 5/5
+2025-05-29 18:04:54,438 - Recognized as: three
+2025-05-29 18:04:54,438 - Actual digit: six
+2025-05-29 18:04:54,439 - 
+Testing digit 'seven'
+2025-05-29 18:04:54,439 - 
+Test 1/5
+2025-05-29 18:04:54,566 - Recognized as: seven
+2025-05-29 18:04:54,567 - Actual digit: seven
+2025-05-29 18:04:54,567 - 
+Test 2/5
+2025-05-29 18:04:54,698 - Recognized as: seven
+2025-05-29 18:04:54,699 - Actual digit: seven
+2025-05-29 18:04:54,699 - 
+Test 3/5
+2025-05-29 18:04:54,830 - Recognized as: nine
+2025-05-29 18:04:54,830 - Actual digit: seven
+2025-05-29 18:04:54,830 - 
+Test 4/5
+2025-05-29 18:04:54,966 - Recognized as: one
+2025-05-29 18:04:54,966 - Actual digit: seven
+2025-05-29 18:04:54,966 - 
+Test 5/5
+2025-05-29 18:04:55,098 - Recognized as: two
+2025-05-29 18:04:55,098 - Actual digit: seven
+2025-05-29 18:04:55,098 - 
+Testing digit 'eight'
+2025-05-29 18:04:55,098 - 
+Test 1/5
+2025-05-29 18:04:55,235 - Recognized as: eight
+2025-05-29 18:04:55,236 - Actual digit: eight
+2025-05-29 18:04:55,236 - 
+Test 2/5
+2025-05-29 18:04:55,363 - Recognized as: eight
+2025-05-29 18:04:55,363 - Actual digit: eight
+2025-05-29 18:04:55,363 - 
+Test 3/5
+2025-05-29 18:04:55,496 - Recognized as: zero
+2025-05-29 18:04:55,497 - Actual digit: eight
+2025-05-29 18:04:55,497 - 
+Test 4/5
+2025-05-29 18:04:55,635 - Recognized as: None
+2025-05-29 18:04:55,635 - Actual digit: eight
+2025-05-29 18:04:55,635 - 
+Test 5/5
+2025-05-29 18:04:55,771 - Recognized as: None
+2025-05-29 18:04:55,771 - Actual digit: eight
+2025-05-29 18:04:55,771 - 
+Testing digit 'nine'
+2025-05-29 18:04:55,771 - 
+Test 1/5
+2025-05-29 18:04:55,909 - Recognized as: nine
+2025-05-29 18:04:55,909 - Actual digit: nine
+2025-05-29 18:04:55,909 - 
+Test 2/5
+2025-05-29 18:04:56,042 - Recognized as: nine
+2025-05-29 18:04:56,042 - Actual digit: nine
+2025-05-29 18:04:56,042 - 
+Test 3/5
+2025-05-29 18:04:56,172 - Recognized as: three
+2025-05-29 18:04:56,172 - Actual digit: nine
+2025-05-29 18:04:56,172 - 
+Test 4/5
+2025-05-29 18:04:56,304 - Recognized as: one
+2025-05-29 18:04:56,306 - Actual digit: nine
+2025-05-29 18:04:56,306 - 
+Test 5/5
+2025-05-29 18:04:56,437 - Recognized as: nine
+2025-05-29 18:04:56,437 - Actual digit: nine
+2025-05-29 18:04:56,437 - 
+Overall accuracy: 64.00%
+2025-05-29 18:04:56,437 - 
+Testing with 4 template(s)...
+2025-05-29 18:04:56,437 - 
+=== Testing Recognition ===
+2025-05-29 18:04:56,439 - 
+Testing digit 'zero'
+2025-05-29 18:04:56,439 - 
+Test 1/5
+2025-05-29 18:04:56,621 - Recognized as: zero
+2025-05-29 18:04:56,621 - Actual digit: zero
+2025-05-29 18:04:56,621 - 
+Test 2/5
+2025-05-29 18:04:56,803 - Recognized as: zero
+2025-05-29 18:04:56,803 - Actual digit: zero
+2025-05-29 18:04:56,803 - 
+Test 3/5
+2025-05-29 18:04:56,988 - Recognized as: zero
+2025-05-29 18:04:56,988 - Actual digit: zero
+2025-05-29 18:04:56,988 - 
+Test 4/5
+2025-05-29 18:04:57,171 - Recognized as: zero
+2025-05-29 18:04:57,171 - Actual digit: zero
+2025-05-29 18:04:57,171 - 
+Test 5/5
+2025-05-29 18:04:57,352 - Recognized as: None
+2025-05-29 18:04:57,352 - Actual digit: zero
+2025-05-29 18:04:57,352 - 
+Testing digit 'one'
+2025-05-29 18:04:57,353 - 
+Test 1/5
+2025-05-29 18:04:57,533 - Recognized as: one
+2025-05-29 18:04:57,533 - Actual digit: one
+2025-05-29 18:04:57,533 - 
+Test 2/5
+2025-05-29 18:04:57,711 - Recognized as: one
+2025-05-29 18:04:57,711 - Actual digit: one
+2025-05-29 18:04:57,712 - 
+Test 3/5
+2025-05-29 18:04:57,894 - Recognized as: one
+2025-05-29 18:04:57,894 - Actual digit: one
+2025-05-29 18:04:57,894 - 
+Test 4/5
+2025-05-29 18:04:58,079 - Recognized as: one
+2025-05-29 18:04:58,079 - Actual digit: one
+2025-05-29 18:04:58,079 - 
+Test 5/5
+2025-05-29 18:04:58,264 - Recognized as: one
+2025-05-29 18:04:58,264 - Actual digit: one
+2025-05-29 18:04:58,264 - 
+Testing digit 'two'
+2025-05-29 18:04:58,265 - 
+Test 1/5
+2025-05-29 18:04:58,439 - Recognized as: two
+2025-05-29 18:04:58,439 - Actual digit: two
+2025-05-29 18:04:58,439 - 
+Test 2/5
+2025-05-29 18:04:58,627 - Recognized as: two
+2025-05-29 18:04:58,627 - Actual digit: two
+2025-05-29 18:04:58,627 - 
+Test 3/5
+2025-05-29 18:04:58,812 - Recognized as: two
+2025-05-29 18:04:58,812 - Actual digit: two
+2025-05-29 18:04:58,812 - 
+Test 4/5
+2025-05-29 18:04:58,998 - Recognized as: two
+2025-05-29 18:04:58,998 - Actual digit: two
+2025-05-29 18:04:58,998 - 
+Test 5/5
+2025-05-29 18:04:59,178 - Recognized as: nine
+2025-05-29 18:04:59,179 - Actual digit: two
+2025-05-29 18:04:59,179 - 
+Testing digit 'three'
+2025-05-29 18:04:59,179 - 
+Test 1/5
+2025-05-29 18:04:59,351 - Recognized as: three
+2025-05-29 18:04:59,352 - Actual digit: three
+2025-05-29 18:04:59,352 - 
+Test 2/5
+2025-05-29 18:04:59,451 - Recognized as: three
+2025-05-29 18:04:59,452 - Actual digit: three
+2025-05-29 18:04:59,452 - 
+Test 3/5
+2025-05-29 18:04:59,631 - Recognized as: three
+2025-05-29 18:04:59,631 - Actual digit: three
+2025-05-29 18:04:59,631 - 
+Test 4/5
+2025-05-29 18:04:59,806 - Recognized as: three
+2025-05-29 18:04:59,806 - Actual digit: three
+2025-05-29 18:04:59,807 - 
+Test 5/5
+2025-05-29 18:04:59,982 - Recognized as: three
+2025-05-29 18:04:59,983 - Actual digit: three
+2025-05-29 18:04:59,983 - 
+Testing digit 'four'
+2025-05-29 18:04:59,983 - 
+Test 1/5
+2025-05-29 18:05:00,171 - Recognized as: four
+2025-05-29 18:05:00,172 - Actual digit: four
+2025-05-29 18:05:00,172 - 
+Test 2/5
+2025-05-29 18:05:00,349 - Recognized as: four
+2025-05-29 18:05:00,349 - Actual digit: four
+2025-05-29 18:05:00,349 - 
+Test 3/5
+2025-05-29 18:05:00,527 - Recognized as: four
+2025-05-29 18:05:00,527 - Actual digit: four
+2025-05-29 18:05:00,527 - 
+Test 4/5
+2025-05-29 18:05:00,697 - Recognized as: None
+2025-05-29 18:05:00,697 - Actual digit: four
+2025-05-29 18:05:00,697 - 
+Test 5/5
+2025-05-29 18:05:00,874 - Recognized as: four
+2025-05-29 18:05:00,875 - Actual digit: four
+2025-05-29 18:05:00,875 - 
+Testing digit 'five'
+2025-05-29 18:05:00,875 - 
+Test 1/5
+2025-05-29 18:05:01,062 - Recognized as: five
+2025-05-29 18:05:01,066 - Actual digit: five
+2025-05-29 18:05:01,068 - 
+Test 2/5
+2025-05-29 18:05:01,295 - Recognized as: five
+2025-05-29 18:05:01,295 - Actual digit: five
+2025-05-29 18:05:01,296 - 
+Test 3/5
+2025-05-29 18:05:01,469 - Recognized as: five
+2025-05-29 18:05:01,469 - Actual digit: five
+2025-05-29 18:05:01,469 - 
+Test 4/5
+2025-05-29 18:05:01,636 - Recognized as: None
+2025-05-29 18:05:01,636 - Actual digit: five
+2025-05-29 18:05:01,636 - 
+Test 5/5
+2025-05-29 18:05:01,813 - Recognized as: five
+2025-05-29 18:05:01,813 - Actual digit: five
+2025-05-29 18:05:01,813 - 
+Testing digit 'six'
+2025-05-29 18:05:01,813 - 
+Test 1/5
+2025-05-29 18:05:01,916 - Recognized as: six
+2025-05-29 18:05:01,917 - Actual digit: six
+2025-05-29 18:05:01,917 - 
+Test 2/5
+2025-05-29 18:05:02,099 - Recognized as: six
+2025-05-29 18:05:02,099 - Actual digit: six
+2025-05-29 18:05:02,099 - 
+Test 3/5
+2025-05-29 18:05:02,281 - Recognized as: six
+2025-05-29 18:05:02,281 - Actual digit: six
+2025-05-29 18:05:02,282 - 
+Test 4/5
+2025-05-29 18:05:02,381 - Recognized as: six
+2025-05-29 18:05:02,382 - Actual digit: six
+2025-05-29 18:05:02,382 - 
+Test 5/5
+2025-05-29 18:05:02,617 - Recognized as: three
+2025-05-29 18:05:02,618 - Actual digit: six
+2025-05-29 18:05:02,618 - 
+Testing digit 'seven'
+2025-05-29 18:05:02,618 - 
+Test 1/5
+2025-05-29 18:05:02,792 - Recognized as: seven
+2025-05-29 18:05:02,793 - Actual digit: seven
+2025-05-29 18:05:02,795 - 
+Test 2/5
+2025-05-29 18:05:02,973 - Recognized as: seven
+2025-05-29 18:05:02,973 - Actual digit: seven
+2025-05-29 18:05:02,973 - 
+Test 3/5
+2025-05-29 18:05:03,153 - Recognized as: seven
+2025-05-29 18:05:03,153 - Actual digit: seven
+2025-05-29 18:05:03,153 - 
+Test 4/5
+2025-05-29 18:05:03,336 - Recognized as: one
+2025-05-29 18:05:03,336 - Actual digit: seven
+2025-05-29 18:05:03,336 - 
+Test 5/5
+2025-05-29 18:05:03,515 - Recognized as: two
+2025-05-29 18:05:03,515 - Actual digit: seven
+2025-05-29 18:05:03,515 - 
+Testing digit 'eight'
+2025-05-29 18:05:03,515 - 
+Test 1/5
+2025-05-29 18:05:03,701 - Recognized as: eight
+2025-05-29 18:05:03,702 - Actual digit: eight
+2025-05-29 18:05:03,702 - 
+Test 2/5
+2025-05-29 18:05:03,876 - Recognized as: eight
+2025-05-29 18:05:03,876 - Actual digit: eight
+2025-05-29 18:05:03,876 - 
+Test 3/5
+2025-05-29 18:05:04,059 - Recognized as: eight
+2025-05-29 18:05:04,060 - Actual digit: eight
+2025-05-29 18:05:04,060 - 
+Test 4/5
+2025-05-29 18:05:04,245 - Recognized as: None
+2025-05-29 18:05:04,245 - Actual digit: eight
+2025-05-29 18:05:04,245 - 
+Test 5/5
+2025-05-29 18:05:04,427 - Recognized as: None
+2025-05-29 18:05:04,428 - Actual digit: eight
+2025-05-29 18:05:04,428 - 
+Testing digit 'nine'
+2025-05-29 18:05:04,428 - 
+Test 1/5
+2025-05-29 18:05:04,614 - Recognized as: nine
+2025-05-29 18:05:04,614 - Actual digit: nine
+2025-05-29 18:05:04,614 - 
+Test 2/5
+2025-05-29 18:05:04,794 - Recognized as: nine
+2025-05-29 18:05:04,795 - Actual digit: nine
+2025-05-29 18:05:04,795 - 
+Test 3/5
+2025-05-29 18:05:04,971 - Recognized as: nine
+2025-05-29 18:05:04,972 - Actual digit: nine
+2025-05-29 18:05:04,972 - 
+Test 4/5
+2025-05-29 18:05:05,156 - Recognized as: one
+2025-05-29 18:05:05,156 - Actual digit: nine
+2025-05-29 18:05:05,156 - 
+Test 5/5
+2025-05-29 18:05:05,335 - Recognized as: nine
+2025-05-29 18:05:05,335 - Actual digit: nine
+2025-05-29 18:05:05,335 - 
+Overall accuracy: 80.00%
+2025-05-29 18:05:05,335 - 
+Testing with 5 template(s)...
+2025-05-29 18:05:05,336 - 
+=== Testing Recognition ===
+2025-05-29 18:05:05,336 - 
+Testing digit 'zero'
+2025-05-29 18:05:05,336 - 
+Test 1/5
+2025-05-29 18:05:05,565 - Recognized as: zero
+2025-05-29 18:05:05,566 - Actual digit: zero
+2025-05-29 18:05:05,566 - 
+Test 2/5
+2025-05-29 18:05:05,799 - Recognized as: zero
+2025-05-29 18:05:05,800 - Actual digit: zero
+2025-05-29 18:05:05,803 - 
+Test 3/5
+2025-05-29 18:05:06,041 - Recognized as: zero
+2025-05-29 18:05:06,041 - Actual digit: zero
+2025-05-29 18:05:06,041 - 
+Test 4/5
+2025-05-29 18:05:06,280 - Recognized as: zero
+2025-05-29 18:05:06,280 - Actual digit: zero
+2025-05-29 18:05:06,281 - 
+Test 5/5
+2025-05-29 18:05:06,519 - Recognized as: None
+2025-05-29 18:05:06,520 - Actual digit: zero
+2025-05-29 18:05:06,520 - 
+Testing digit 'one'
+2025-05-29 18:05:06,520 - 
+Test 1/5
+2025-05-29 18:05:06,744 - Recognized as: one
+2025-05-29 18:05:06,745 - Actual digit: one
+2025-05-29 18:05:06,745 - 
+Test 2/5
+2025-05-29 18:05:06,985 - Recognized as: one
+2025-05-29 18:05:06,985 - Actual digit: one
+2025-05-29 18:05:06,985 - 
+Test 3/5
+2025-05-29 18:05:07,230 - Recognized as: one
+2025-05-29 18:05:07,230 - Actual digit: one
+2025-05-29 18:05:07,231 - 
+Test 4/5
+2025-05-29 18:05:07,456 - Recognized as: one
+2025-05-29 18:05:07,457 - Actual digit: one
+2025-05-29 18:05:07,457 - 
+Test 5/5
+2025-05-29 18:05:07,683 - Recognized as: one
+2025-05-29 18:05:07,683 - Actual digit: one
+2025-05-29 18:05:07,683 - 
+Testing digit 'two'
+2025-05-29 18:05:07,684 - 
+Test 1/5
+2025-05-29 18:05:07,898 - Recognized as: two
+2025-05-29 18:05:07,898 - Actual digit: two
+2025-05-29 18:05:07,898 - 
+Test 2/5
+2025-05-29 18:05:08,122 - Recognized as: two
+2025-05-29 18:05:08,122 - Actual digit: two
+2025-05-29 18:05:08,122 - 
+Test 3/5
+2025-05-29 18:05:08,351 - Recognized as: two
+2025-05-29 18:05:08,351 - Actual digit: two
+2025-05-29 18:05:08,351 - 
+Test 4/5
+2025-05-29 18:05:08,580 - Recognized as: two
+2025-05-29 18:05:08,580 - Actual digit: two
+2025-05-29 18:05:08,581 - 
+Test 5/5
+2025-05-29 18:05:08,801 - Recognized as: nine
+2025-05-29 18:05:08,802 - Actual digit: two
+2025-05-29 18:05:08,802 - 
+Testing digit 'three'
+2025-05-29 18:05:08,804 - 
+Test 1/5
+2025-05-29 18:05:09,025 - Recognized as: three
+2025-05-29 18:05:09,025 - Actual digit: three
+2025-05-29 18:05:09,025 - 
+Test 2/5
+2025-05-29 18:05:09,150 - Recognized as: three
+2025-05-29 18:05:09,150 - Actual digit: three
+2025-05-29 18:05:09,150 - 
+Test 3/5
+2025-05-29 18:05:09,365 - Recognized as: three
+2025-05-29 18:05:09,366 - Actual digit: three
+2025-05-29 18:05:09,366 - 
+Test 4/5
+2025-05-29 18:05:09,592 - Recognized as: three
+2025-05-29 18:05:09,592 - Actual digit: three
+2025-05-29 18:05:09,592 - 
+Test 5/5
+2025-05-29 18:05:09,808 - Recognized as: three
+2025-05-29 18:05:09,808 - Actual digit: three
+2025-05-29 18:05:09,809 - 
+Testing digit 'four'
+2025-05-29 18:05:09,810 - 
+Test 1/5
+2025-05-29 18:05:10,025 - Recognized as: four
+2025-05-29 18:05:10,026 - Actual digit: four
+2025-05-29 18:05:10,026 - 
+Test 2/5
+2025-05-29 18:05:10,246 - Recognized as: four
+2025-05-29 18:05:10,246 - Actual digit: four
+2025-05-29 18:05:10,246 - 
+Test 3/5
+2025-05-29 18:05:10,470 - Recognized as: four
+2025-05-29 18:05:10,471 - Actual digit: four
+2025-05-29 18:05:10,472 - 
+Test 4/5
+2025-05-29 18:05:10,675 - Recognized as: four
+2025-05-29 18:05:10,676 - Actual digit: four
+2025-05-29 18:05:10,676 - 
+Test 5/5
+2025-05-29 18:05:10,895 - Recognized as: four
+2025-05-29 18:05:10,895 - Actual digit: four
+2025-05-29 18:05:10,895 - 
+Testing digit 'five'
+2025-05-29 18:05:10,895 - 
+Test 1/5
+2025-05-29 18:05:11,116 - Recognized as: five
+2025-05-29 18:05:11,116 - Actual digit: five
+2025-05-29 18:05:11,117 - 
+Test 2/5
+2025-05-29 18:05:11,338 - Recognized as: five
+2025-05-29 18:05:11,339 - Actual digit: five
+2025-05-29 18:05:11,339 - 
+Test 3/5
+2025-05-29 18:05:11,564 - Recognized as: five
+2025-05-29 18:05:11,564 - Actual digit: five
+2025-05-29 18:05:11,564 - 
+Test 4/5
+2025-05-29 18:05:11,780 - Recognized as: five
+2025-05-29 18:05:11,780 - Actual digit: five
+2025-05-29 18:05:11,781 - 
+Test 5/5
+2025-05-29 18:05:12,003 - Recognized as: five
+2025-05-29 18:05:12,003 - Actual digit: five
+2025-05-29 18:05:12,003 - 
+Testing digit 'six'
+2025-05-29 18:05:12,003 - 
+Test 1/5
+2025-05-29 18:05:12,136 - Recognized as: six
+2025-05-29 18:05:12,136 - Actual digit: six
+2025-05-29 18:05:12,136 - 
+Test 2/5
+2025-05-29 18:05:12,356 - Recognized as: six
+2025-05-29 18:05:12,356 - Actual digit: six
+2025-05-29 18:05:12,357 - 
+Test 3/5
+2025-05-29 18:05:12,576 - Recognized as: six
+2025-05-29 18:05:12,576 - Actual digit: six
+2025-05-29 18:05:12,576 - 
+Test 4/5
+2025-05-29 18:05:12,701 - Recognized as: six
+2025-05-29 18:05:12,701 - Actual digit: six
+2025-05-29 18:05:12,702 - 
+Test 5/5
+2025-05-29 18:05:12,925 - Recognized as: three
+2025-05-29 18:05:12,925 - Actual digit: six
+2025-05-29 18:05:12,926 - 
+Testing digit 'seven'
+2025-05-29 18:05:12,926 - 
+Test 1/5
+2025-05-29 18:05:13,137 - Recognized as: seven
+2025-05-29 18:05:13,137 - Actual digit: seven
+2025-05-29 18:05:13,138 - 
+Test 2/5
+2025-05-29 18:05:13,358 - Recognized as: seven
+2025-05-29 18:05:13,358 - Actual digit: seven
+2025-05-29 18:05:13,359 - 
+Test 3/5
+2025-05-29 18:05:13,581 - Recognized as: seven
+2025-05-29 18:05:13,581 - Actual digit: seven
+2025-05-29 18:05:13,581 - 
+Test 4/5
+2025-05-29 18:05:13,809 - Recognized as: seven
+2025-05-29 18:05:13,809 - Actual digit: seven
+2025-05-29 18:05:13,810 - 
+Test 5/5
+2025-05-29 18:05:14,025 - Recognized as: two
+2025-05-29 18:05:14,025 - Actual digit: seven
+2025-05-29 18:05:14,025 - 
+Testing digit 'eight'
+2025-05-29 18:05:14,026 - 
+Test 1/5
+2025-05-29 18:05:14,254 - Recognized as: eight
+2025-05-29 18:05:14,254 - Actual digit: eight
+2025-05-29 18:05:14,254 - 
+Test 2/5
+2025-05-29 18:05:14,473 - Recognized as: eight
+2025-05-29 18:05:14,473 - Actual digit: eight
+2025-05-29 18:05:14,473 - 
+Test 3/5
+2025-05-29 18:05:14,701 - Recognized as: eight
+2025-05-29 18:05:14,701 - Actual digit: eight
+2025-05-29 18:05:14,701 - 
+Test 4/5
+2025-05-29 18:05:14,941 - Recognized as: eight
+2025-05-29 18:05:14,941 - Actual digit: eight
+2025-05-29 18:05:14,942 - 
+Test 5/5
+2025-05-29 18:05:15,172 - Recognized as: eight
+2025-05-29 18:05:15,172 - Actual digit: eight
+2025-05-29 18:05:15,172 - 
+Testing digit 'nine'
+2025-05-29 18:05:15,172 - 
+Test 1/5
+2025-05-29 18:05:15,402 - Recognized as: nine
+2025-05-29 18:05:15,403 - Actual digit: nine
+2025-05-29 18:05:15,403 - 
+Test 2/5
+2025-05-29 18:05:15,627 - Recognized as: nine
+2025-05-29 18:05:15,627 - Actual digit: nine
+2025-05-29 18:05:15,627 - 
+Test 3/5
+2025-05-29 18:05:15,847 - Recognized as: nine
+2025-05-29 18:05:15,847 - Actual digit: nine
+2025-05-29 18:05:15,847 - 
+Test 4/5
+2025-05-29 18:05:16,084 - Recognized as: nine
+2025-05-29 18:05:16,085 - Actual digit: nine
+2025-05-29 18:05:16,085 - 
+Test 5/5
+2025-05-29 18:05:16,315 - Recognized as: nine
+2025-05-29 18:05:16,315 - Actual digit: nine
+2025-05-29 18:05:16,315 - 
+Overall accuracy: 92.00%
+2025-05-29 18:05:16,578 - 
+=== Generating DTW Cost Matrix Visualizations ===
+2025-05-29 18:05:17,338 - 
+=== Results Summary ===
+2025-05-29 18:05:17,338 - 
+1. Basic Recognition Tests:
+2025-05-29 18:05:17,339 -    - Single template accuracy: 36.00%
+2025-05-29 18:05:17,339 -    - Time-synchronous DTW accuracy: 14.00%
+2025-05-29 18:05:17,339 - 
+2. Band Ratio Analysis:
+2025-05-29 18:05:17,339 -    - Band ratio 0.10: 14.00% accuracy
+2025-05-29 18:05:17,340 -    - Band ratio 0.15: 14.00% accuracy
+2025-05-29 18:05:17,340 -    - Band ratio 0.20: 14.00% accuracy
+2025-05-29 18:05:17,340 -    - Band ratio 0.25: 14.00% accuracy
+2025-05-29 18:05:17,341 -    - Band ratio 0.30: 14.00% accuracy
+2025-05-29 18:05:17,341 -    - Band ratio 0.35: 14.00% accuracy
+2025-05-29 18:05:17,341 -    - Band ratio 0.40: 14.00% accuracy
+2025-05-29 18:05:17,341 -    - Best performing band ratio: 0.10 (14.00% accuracy)
+2025-05-29 18:05:17,341 - 
+3. Template Count Analysis:
+2025-05-29 18:05:17,342 -    - 1 template(s): 14.00% accuracy
+2025-05-29 18:05:17,342 -    - 2 template(s): 40.00% accuracy
+2025-05-29 18:05:17,342 -    - 3 template(s): 64.00% accuracy
+2025-05-29 18:05:17,343 -    - 4 template(s): 80.00% accuracy
+2025-05-29 18:05:17,343 -    - 5 template(s): 92.00% accuracy
+2025-05-29 18:05:17,343 -    - Best performing template count: 5 (92.00% accuracy)
+2025-05-29 18:05:17,343 - 
+4. Overall Best Configuration:
+2025-05-29 18:05:17,344 -    - Best accuracy achieved: 92.00%
+2025-05-29 18:05:17,344 -    - Recommended settings:
+2025-05-29 18:05:17,344 -      * Band ratio: 0.10
+2025-05-29 18:05:17,344 -      * Number of templates: 5
+2025-05-29 18:05:17,344 -      * Time-synchronous DTW: No
+2025-05-29 18:05:17,345 - 
+5. Visualization Files:
+2025-05-29 18:05:17,345 -    - Band ratio results: 'band_ratio_results.png'
+2025-05-29 18:05:17,345 -    - Template count results: 'template_results.png'
+2025-05-29 18:05:17,345 -    - DTW cost matrices: 'dtw_cost_matrix.png' and 'time_synchronous_dtw_cost_matrix.png'
